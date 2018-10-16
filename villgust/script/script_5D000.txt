@@ -1,0 +1,840 @@
+// Script 0x5D000-0x0 (0x5D0D0)
+// 「く　くるしいよ・・[wait]
+I-It hurts...[wait]
+
+
+#END()
+
+// Script 0x5D000-0x1 (0x5D0DC)
+// 「たすけてくれて　ありがとニャ！[wait]
+Thank you for saving us, *meow*![wait]
+
+
+#END()
+
+// Script 0x5D000-0x2 (0x5D0EF)
+// ムロボ　「あのくすりは　いったい[br]
+// なんなんだ！！　こたえろ！[wait][next]
+Murobo: What was that medicine, really? Tell me!![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x3 (0x5D112)
+// しょうにん　「うるさい！！[wait]
+Merchant: Shut up![wait]
+
+
+#END()
+
+// Script 0x5D000-0x4 (0x5D121)
+// しょうにん　「わたしは　い　いったい[br]
+// なにを　していたんだ。[wait][next]
+Merchant: W-Where...? What am I doing here?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x5 (0x5D143)
+// ムロボ　「なんだ？[br]
+// あやつられていたのか。[wait][next]
+Murobo: Hmm... It appears he was being controlled by someone.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x6 (0x5D15D)
+// しょうにん　「わたしは　ぎょうしょうの[br]
+// とちゅうで　ここのやまに　さしかかったの[br]
+// ですが・・・・・・[wait][next]
+Merchant: I was peddling my wares when I approached this mountain...[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x7 (0x5D196)
+// そのとき　はなのばけものに　おそわれ・・[br]
+// ああ　おもいだせない・・・・・[wait][next]
+I was attacked by some kind of plant monster and... That's all I remember.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x8 (0x5D1BF)
+// ムロボ　「このやまに　なにかいるのは[br]
+// まちがいないみたいだな。[wait][next]
+Murobo: It's clear that this mountain is hiding something.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x9 (0x5D1E4)
+// しょうにん　「あなたがたを　ワナにかけた[br]
+// おわびに　このくすりをおつかいください[br]
+// げんきに　なれますから。[wait]
+Merchant: Under control or not, I'm terribly sorry for attacking you. Allow me to heal your injuries with my medicines... The real ones![wait]
+
+
+#END()
+
+// Script 0x5D000-0xA (0x5D21F)
+// [clear]パーティーのたいりょくが　かいふくした！[wait]
+[clear]The party's health was restored![wait]
+
+
+#END()
+
+// Script 0x5D000-0xB (0x5D238)
+// しょうにん　「それでは　わたしは[br]
+// これで　しつれいします。[wait]
+Merchant: I shall take my leave now. Farewell.[wait]
+
+
+#END()
+
+// Script 0x5D000-0xC (0x5D259)
+// ムロボ　「おまえか　ヘンなくすりを[br]
+// ばらまいて　ひとびとを　しょくぶつに[br]
+// かえているのは。[wait][next]
+Murobo: You're behind this, aren't you? You've been spreading some weird medicine around that turns people into plants.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0xD (0x5D28D)
+// フラワーゴースト　「いかにも　ワレは[br]
+// ひとびとに　はかいされたしぜんの[br]
+// おんねんで　できあがった　いきもの。[wait][next]
+Flower Ghost: Indeed! I was brought to life by the grudge of every plant that has been destroyed for the benefit of you fleshy creatures.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0xE (0x5D2CC)
+// そして　いま　じゃしんさまの　ちからで[br]
+// ときはなたれたのだ！！[wait][next]
+And now, with the power of the Evil God, I can get my revenge![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0xF (0x5D2F1)
+// レミ　「いいたいことは　わかるわ[br]
+// でもなぜ　じゃしんに・・・・・・？[wait][next]
+Remi: ...I do sympathize, but why side with the Evil God? There must be a better way.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x10 (0x5D319)
+// フラワーゴースト　「もうはなすことはない[br]
+// しねー！！[wait]
+Flower Ghost: The time for talking is over. Perish![wait]
+
+
+#END()
+
+// Script 0x5D000-0x11 (0x5D336)
+// フラワーゴースト　「むねんだ！！[wait]
+Flower Ghost: And so[br]
+it ends, with our[br]
+grudge left unful-[br]
+filled...[wait]
+
+
+#END()
+
+// Script 0x5D000-0x12 (0x5D34A)
+// しょうにん　「この　モンスターのからだを[br]
+// つかえば　げどくやくが　つくれるぞ！！[wait]
+Merchant: I can use this monster's body to create an antidote![wait]
+
+
+#END()
+
+// Script 0x5D000-0x13 (0x5D37A)
+// 「このまちは　じゃしんさまによって[br]
+// まもられしまち　カーミュだ。[wait]
+This is the town of Camus. The Evil God watches over us.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x14 (0x5D39E)
+// 「めがみに　たいこうするための　へいしを[br]
+// ぼしゅう　しているよ。[wait]
+We're recruiting soldiers to fight against the Goddess.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x15 (0x5D3C2)
+// 「まちのひがしから　そとにでると[br]
+// じゃしんのしんでんに　でますわ。[wait]
+If you take the eastern exit, you'll find the Shrine of the Evil God.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x16 (0x5D3EA)
+// 「なに？　おじちゃんたち？[br]
+// ぼくらのデートのじゃま　しないでよ！[wait]
+Move it, you jerks! You're ruining our date![wait]
+
+
+#END()
+
+// Script 0x5D000-0x17 (0x5D411)
+// 「うわっ　はなしかけないでよ！[br]
+// あしにかかっちゃったよ！[wait]
+Ahh! Why did you talk to me?! Oh man, I got it all over my foot...[wait]
+
+
+#END()
+
+// Script 0x5D000-0x18 (0x5D430)
+// 「このまちは　じゃしんさまのおかげで[br]
+// モンスターにも　おそわれないの。[wait]
+The Evil God protects us from monsters.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x19 (0x5D458)
+// ちょうちょう　「まちのひがしに[br]
+// じゃしんのしんでんが　あるのじゃ[br]
+// いってみるがよかろう。[wait]
+Mayor: There is a shrine dedicated to the Evil God east of our village. You should go there and pay your respects.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x1A (0x5D48C)
+// 「おおっ　すばらしい　いでたち！[br]
+// わしらとともに　めがみを　たおさぬか！？[wait]
+Ohh, you sure are well equipped! Would you like to join our fight against the Goddess?[wait]
+
+
+#END()
+
+// Script 0x5D000-0x1B (0x5D4B6)
+// 「このまちは　めがみさまによって[br]
+// まもられしまち　カーミュだ。[wait]
+This is the town of Camus. The Goddess watches over us.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x1C (0x5D4D9)
+// 「あんたらが　めがみのゆうしゃ[br]
+// だったとは・・・・[wait]
+I had no idea you were the Goddess's chosen ones...[wait]
+
+
+#END()
+
+// Script 0x5D000-0x1D (0x5D4F7)
+// 「わたし　じゃしんよりも　めがみさまを[br]
+// しんこうすることにしました。[wait]
+I don't like the Evil God anymore. Now I worship the Goddess.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x1E (0x5D51D)
+// 「まさか　きょうそさまが　たおされるとは[br]
+// めがみのゆうしゃ・・おそるべし・・・[wait]
+You were able to dispatch the founder of the Sect of the Evil God... You champions of the Goddess are really formidable...[wait]
+
+
+#END()
+
+// Script 0x5D000-0x1F (0x5D549)
+// そんちょう　「わたしたちの　みらいは[br]
+// めがみに　たくすことに　しました。[wait]
+Mayor: We've decided to entrust our future to the Goddess.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x20 (0x5D570)
+// 「でていけぃ！　おまえらなぞ[br]
+// みたくもないわ！！[wait]
+LEAVE! I do not want to see you ever again!![wait]
+
+
+#END()
+
+// Script 0x5D000-0x21 (0x5D58C)
+// しつじ　「これは　これは　ようこそ[br]
+// いらっしゃいました。[br]
+// とうしんでんでは　おとずれたひとびとに[br]
+// さいこうのもてなしを　よういしております[wait]
+Butler: Welcome to our humble temple. Allow me to show you our hospitality.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x22 (0x5D5D8)
+// つぎに　きょうはなんと　さいこうきゅうの[br]
+// まほうつかいのそうびを　よういさせて[br]
+// ございます　さあ　どうぞ。[wait][next]
+You came at the perfect time. We have just received a magician's robe of the highest quality. Would you accept this gift?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x23 (0x5D616)
+// レミ　「ほんとうに　そうび　していいの？[wait][next]
+Remi: Can I try it? I want to see if it's my size.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x24 (0x5D62E)
+// しつじ　「ええ　あなたみたいな[br]
+// おきれいなかたには　よく　にあうと[br]
+// おもいますよ。[wait][next]
+Butler: Of course, of course![wait][clear]
+
+I'm sure it will fit a lovely lady such as yourself quite well.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x25 (0x5D65B)
+// レミ　「え！　じゃあ　きてみようかしら？[wait][next]
+Remi: Oh, you flatter. Okay, let me put it on...[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x26 (0x5D673)
+// [clear]レミは　さいきょうの　まほうそうび[br]
+// マジカルローブを　そうびした！[wait][next]
+[clear]Remi equips the strongest magician's armor, the Magical Robe![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x27 (0x5D69C)
+// しつじ　「フッフフフ・・・・・[wait]
+Butler: Heheheheh...[wait]
+
+
+#END()
+
+// Script 0x5D000-0x28 (0x5D6AE)
+// レミ　「わたしは　じゃしんのつかい　レミ[br]
+// わたしが　あがめるは　じゃしんさまのみ。[wait]
+Remi: I am Remi, Servant of the Evil God. He is the only true god.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x29 (0x5D6DD)
+// ボストフ　「レ・・レミのやつ　いったい[br]
+// どうしたんだ？[wait][next]
+Bostov: W-What the heck was that?! What's wrong with Remi?![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x2A (0x5D6FE)
+// ムロボ　「おそらく　レミは　あのぼうぐの[br]
+// せいで　じゃあくにこころを　のっとられた[br]
+// ようだ。[wait][next]
+Murobo: I fear that robe is to blame.[wait][clear]
+
+It must have taken control over Remi's heart.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x2B (0x5D735)
+// リタ　「なんとか　たすけなきゃ！！[wait][next]
+Rita: We have to do something![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x2C (0x5D749)
+// ムロボ　「とにかく　てきのなかに　はいり[br]
+// レミを　もとにもどすほうほうをさぐろう。[wait]
+Murobo: Someone in here must know how to break the curse. Let's take a look around.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x2D (0x5D777)
+// 「へいしのぼしゅうは　こちらで[br]
+// おこなっていますが　ひとつ　しけんを[br]
+// うけてもらいます。[wait][next]
+This is where we recruit soldiers. Before you join, we must test where your loyalties lie.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x2E (0x5D7A9)
+// しけんは　めがみのふみえです[br]
+// ゆかのめがみのレリーフをふみ　こちらへ[br]
+// やってきてください。[wait][next]
+See this sculpture of the Goddess on the floor? You must trample all over it.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x2F (0x5D7DD)
+// ボストフ　「どうする　ムロボ・・・[br]
+// めがみさまを　ふんでいくのか・・？[wait][next]
+Bostov: Oh man... Could you really do something like that, Murobo...?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x30 (0x5D808)
+// ムロボ　「むう・・・[wait]
+Murobo: Urgh...[wait]
+
+
+#END()
+
+// Script 0x5D000-0x31 (0x5D815)
+// しけんかん　「どうしたんだ。[wait][next]
+Examiner: What's the holdup?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x32 (0x5D828)
+// ムロボ　「む　バレたか！？[wait][next]
+Murobo: Have we been found out already...?![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x33 (0x5D83A)
+// しけんかん　「ん・・おまえ[br]
+// ムロボ？　ムロボじゃないか！！[wait]
+Examiner: Wait... Murobo? Is that you?[wait]
+
+
+#END()
+
+// Script 0x5D000-0x34 (0x5D85C)
+// ムロボ　「おまえは　ハッシュ！？[br]
+// まさか　おまえ　じゃしんにこころを[br]
+// うったのか！？[wait][next]
+Murobo: Hash?! Don't tell me you also sold your soul to the Evil God?![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x35 (0x5D88B)
+// ハッシュ　「まさか！！　オレは　かねが[br]
+// いのち！　こころまでは　うったり[br]
+// しないのが　おれのじまんだ！[wait][next]
+Hash: No way! I wouldn't sell the only soul I have![wait][clear]
+
+I'm just in it for the money! Hahah![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x36 (0x5D8C6)
+// ムロボ　「じまんになるか！[wait]
+Murobo: This is no laughing matter![wait]
+
+
+#END()
+
+// Script 0x5D000-0x37 (0x5D8D7)
+// ムロボ　「むかしのよしみで　おまえに[br]
+// たのみがあるんだ。[br]
+// じつは　なかまが　じゃしんのそうびで[br]
+// こころをうばわれたのだ。[wait][next]
+Murobo: We need your help, in the name of our old friendship. One of our comrades was cursed by an evil robe.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x38 (0x5D921)
+// なんとか　それを　なおしたいのだが。[wait][next]
+Tell me, is there a way to break the curse?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x39 (0x5D938)
+// ハッシュ　「・・・・・・[wait][next]
+Hash: ......[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x3A (0x5D947)
+// ハッシュ　「その　そうびを　はずすのなら[br]
+// この　しんでんの　ちかにある[br]
+// せいじゃのみずを　つかうといい。[wait][next]
+Hash: The only way to remove the dress is using the Holy Water from the basement.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x3B (0x5D983)
+// ムロボ　「すまん　たすかった。[wait][next]
+Murobo: Thank you. I really appreciate it.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x3C (0x5D996)
+// ハッシュ　「ムロボ・・そのアイテムを[br]
+// てにいれたら　すぐに　このまちを[br]
+// さってくれ　オレは　おまえとたたかうのは[br]
+// さけたいんだ。[wait][next]
+Hash: Promise me this, Murobo. Once you get what you need, leave at once. I'd really rather not have to fight you.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x3D (0x5D9DC)
+// ムロボ　「ああ　わかっている。[wait]
+Murobo: ...I under-[br]
+stand.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x3E (0x5D9EE)
+// 「どうするんですか？[wait]
+Well?[wait]
+
+
+#END()
+
+// Script 0x5D000-0x3F (0x5D9FC)
+// じゃしんかん　「そこで　なにを[br]
+// しているんだ　めがみの　ゆうしゃよ。[wait][next]
+Evil Priest: What have we here? The Goddess's chosen ones, snooping around like rats?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x40 (0x5DA25)
+// ムロボ　「しっていたのか。[wait][next]
+Murobo: ...So you knew.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x41 (0x5DA36)
+// じゃしんかん　「あたりまえだ　これは[br]
+// すべて　しくまれた　ことなのだ！！[br]
+// むかしのともと　なかまに[br]
+// ころされるがいい　やれ！！[wait]
+Evil Priest: Of course I did. This was all part of my plan! And now, you will be killed by your old friend and your former comrade. Do it!![wait]
+
+
+#END()
+
+// Script 0x5D000-0x42 (0x5DA7C)
+// レミ　「はい！！　じゃしんかんさま。[wait]
+Remi: Yes, Priest.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x43 (0x5DA91)
+// ハッシュ　「わかりました。[wait][next]
+Hash: Understood.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x44 (0x5DAA1)
+// ムロボ　「きさま　ハッシュになにをした。[wait][next]
+Murobo: What have you done to Hash?![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x45 (0x5DAB9)
+// じゃしんかん　「かれは　すこし[br]
+// はんこうてきだったので　こころを[br]
+// のっとらせて　もらったよ！！[wait][next]
+Evil Priest: What else? I've taken control of his heart.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x46 (0x5DAEE)
+// ムロボ　「くそ！！　みんないくぞ！！[wait]
+Murobo: Darn it... We must defend ourselves![wait]
+
+
+#END()
+
+// Script 0x5D000-0x47 (0x5DB04)
+// レミ　「あら？　わたしは　いったいなにを[br]
+// していたのかしら。[wait][next]
+Remi: Huh? What happened?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x48 (0x5DB25)
+// ボストフ　「レミ　やっと　しょうきに[br]
+// もどったんだな　よかった・・・[wait]
+Bostov: Looks like she's back to normal...[wait]
+
+
+#END()
+
+// Script 0x5D000-0x49 (0x5DB4C)
+// ハッシュ　「うっ・・ううっ・・・！[wait][next]
+Hash: Urgh... Argh...![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x4A (0x5DB60)
+// ムロボ　「しっかりしろ！！[wait]
+Murobo: Hang in there![wait]
+
+
+#END()
+
+// Script 0x5D000-0x4B (0x5DB70)
+// ムロボ　「きがついたか？[wait][next]
+Murobo: Are you back to yourself?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x4C (0x5DB81)
+// ハッシュ　「つよくなったな・・[br]
+// それが　めがみのちからか。[wait][next]
+Hash: You're stronger than I remember... Is that the power of the Goddess?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x4D (0x5DBA3)
+// ムロボ　「どうだ　おまえも　めがみの[br]
+// ゆうしゃに　ならないか？[wait][next]
+Murobo: Maybe. Why don't you become one of Her champions and find out for yourself?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x4E (0x5DBC9)
+// ハッシュ　「すまんな　ムロボ　せいぎの[br]
+// ためにたたかうなんて　オレのしょうに[br]
+// あわん。[wait][next]
+Hash: No can do, Murobo. Fighting for justice or whatever just ain't my thing.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x4F (0x5DBF9)
+// ムロボ　「そうか　わかった　でも　もう[br]
+// じゃしんのてだすけだけは　するなよ。[wait][next]
+Murobo: I see. At least promise me not to work for the Evil God again.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x50 (0x5DC27)
+// ハッシュ　「わかったよ　オレもにどと[br]
+// おまえとたたかいたくないからな。[wait][next]
+Hash: That I can do. I'd REALLY rather not have to fight you again.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x51 (0x5DC4E)
+// しかし　あのアイテムを　つかいこなすとは[br]
+// ボストフとやらの　レミというおんなのこに[br]
+// たいするあいは　そうとうつよいんだな。[wait][next]
+By the way... Bostov, was it? You must really like that Remi girl, huh?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x52 (0x5DC90)
+// ボストフ　「えっ　なんのことだよ？[wait][next]
+Bostov: W-What do you mean?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x53 (0x5DCA6)
+// ハッシュ　「あのアイテムは　あいの[br]
+// ちからで　のろいをとくのさ。[wait][next]
+Hash: That item you used? It can only break curses with the power of love.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x54 (0x5DCCA)
+// レミ　「え！？[wait][next]
+Remi: Say WHAT?![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x55 (0x5DCD4)
+// ボストフ　「な　なーに　いってんだよ！[wait][next]
+Bostov: I-I have no idea what he's talking about![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x56 (0x5DCEC)
+// ムロボ　「ボストフ　かおが　まっかだぞ。[wait][next]
+Murobo: So you say. But your face looks mighty red from where I'm standing.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x57 (0x5DD08)
+// ボストフ　「こ　これは・・その・・・。[wait][next]
+Bostov: T-That's 'cause... I, uhhh...[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x58 (0x5DD1F)
+// リュキア　「レミも　かおが　まっかニャ！[wait][next]
+Ryuquir: Remi's gotten all red too, *meow*![wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x59 (0x5DD37)
+// レミ　「や　やぁーね　リュキアったら！[wait]
+Remi: R-Ryuquir!![wait]
+
+
+#END()
+
+// Script 0x5D000-0x5A (0x5DD4C)
+// ハッシュ　「じゃあな　ムロボ[br]
+// がんばれよ！！[wait][next]
+Hash: See ya, Murobo! Don't you die on me, you hear?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x5B (0x5DD69)
+// ムロボ　「おまえもな！[wait]
+Murobo: Right back at you![wait]
+
+
+#END()
+
+// Script 0x5D000-0x5C (0x5DD77)
+// 「ナルサのまちにある　ふねは[br]
+// ふしぎな　きで　できていると　きいた[br]
+// ことがあるよ。[wait]
+I heard the ships in[br]
+Nartha are built with[br]
+some kind of extraor-[br]
+dinary wood.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x5D (0x5DDA6)
+// ちょうちょう　「ふねが　ひつようなら[br]
+// ナルサのまちにいくと　いいだろう。[wait]
+Village Head: If you need a ship, you should go to Nartha.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x5E (0x5DDCE)
+// 「ナルサのまちに　いきたいの？[br]
+// なら　このまちをでて　みなみに[br]
+// ゆくと　いいわ。[wait]
+Are you going to Nartha? Just head southward from our village.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x5F (0x5DDF9)
+// 「ルベリオのまちに　ようこそ！[br]
+// しずかな　いいまちじゃよ。[wait]
+Welcome to Luverio! As you can see, it's a quiet and peaceful village.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x60 (0x5DE1B)
+// 「うみを　ほくせいに　すすむと[br]
+// かみのせかいのいりぐちがある　しまが[br]
+// あるそうじゃ。[wait]
+If you cross the sea northwest, you'll reach a mountain with the entrance to the World of the Gods.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x61 (0x5DE4B)
+// 「このちほうの　やまおくにある[br]
+// カーミュのまちでは　じゃしんを[br]
+// しんこうしているそうじゃの。[wait]
+There is a certain town called Camus deep in the mountains. Apparently, they worship the Evil God there...[wait]
+
+
+#END()
+
+// Script 0x5D000-0x62 (0x5DE7E)
+// 「カーミュのまちが　じゃしんしんこうを[br]
+// やめたそうじゃが　どうしたことじゃ？[wait]
+It seems the people of Camus stopped worshiping the Evil God. I wonder what happened?[wait]
+
+
+#END()
+
+// Script 0x5D000-0x63 (0x5DEAC)
+// ちょうちょう　「いま　ふねはこわれて[br]
+// いるんだよ。[wait]
+Mayor: Sorry, my ship is too damaged to sail.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x64 (0x5DEC8)
+// ちょうちょう　「いま　ふねはこわれて[br]
+// いるんだ　だが　なおすほうほうはある。[wait][next]
+Mayor: My ship is too damaged to sail right now, but there is a way to fix it.[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x65 (0x5DEF4)
+// それは　このちほうから　ひがしにゆくと[br]
+// まじゅつしのいえがある。[br]
+// そこに　はえてる　ひたちのき　で　[br]
+// しゅうりができるのだ。[wait]
+We need wood from the Evergrowing Tree that grows near the magician's house in the eastern part of this region. If we had that, we could easily repair the ship.[wait]
+
+
+#END()
+
+// Script 0x5D000-0x66 (0x5DF3B)
+// ムロボ　「ちょうちょう　このき　ですか？[wait][next]
+Murobo: Is this the wood you're looking for, Mr. Mayor?[wait][next]
+
+
+#END()
+
+// Script 0x5D000-0x67 (0x5DF54)
+// ちょうちょう　「おぉ　これだ　これだよ！[br]
+// さっそく　ふねをなおそう[wait]
+Mayor: It is! We'll get started right away.[wait]
+
+
+#END()
+

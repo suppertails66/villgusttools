@@ -1,0 +1,116 @@
+#SETWIDTH(22)
+
+// Script 0x57000-0x0 (0x57012)
+// [op47][    ]きかく　げんあん[        ][br]
+// [     ]P・NEKOMATA[     ][br]
+// [          ][         ][next]
+[op47]
+[          ][         ][br]
+  Original Project   [br]
+     P-NEKOMATA      [br]
+[          ][         ][next]
+
+
+#END()
+
+// Script 0x57000-0x1 (0x57030)
+// [clear][op47][     ]ストーリー[          ][br]
+// [      ]スタジオ　オルフェ[     ][br]
+// [      ]ちば　ともひろ[       ]
+[clear]
+[op47]
+        Story        [br]
+    Studio Orphee    [br]
+   Tomohiro Chiba    [br]
+[          ][         ]
+
+#END()
+
+// Script 0x57000-0x2 (0x57052)
+// [op47][     ]プロデューサー[        ][br]
+// [      ]ささき　しげのり[      ][br]
+// [          ][         ][next]
+[op47]
+[          ][         ][br]
+      Producer       [br]
+  Shigenori Sasaki   [br]
+[          ][         ][next]
+
+#END()
+
+// Script 0x57000-0x3 (0x5706F)
+// [clear][op47][      ]コーディネイター[      ][br]
+// [       ]KABAO[        ][br]
+// [          ][          ]
+[clear]
+[op47]
+[          ][         ][br]
+     Coordinator     [br]
+        KABAO        [br]
+[          ][         ]
+
+#END()
+
+// Script 0x57000-0x4 (0x57088)
+// [op47][      ]プログラマー[        ][br]
+// [       ]おおたろう[        ][br]
+// [       ]ZHU　LI[      ][next]
+[op47]
+     Programmers     [br]
+       Ootaro        [br]
+       ZHU LI        [br]
+[          ][         ][next]
+
+#END()
+
+// Script 0x57000-0x5 (0x570A6)
+// [clear][op47][      ]デザイナー[         ][br]
+// [       ]みど　にゃんこ[      ][br]
+// [       ]KANOGEN[      ]
+[clear]
+[op47]
+      Designers      [br]
+     Mido Nyanko     [br]
+       KANOGEN       [br]
+[          ][         ]
+
+#END()
+
+// Script 0x57000-0x6 (0x570C7)
+// [op47][     ]コンポーザー[         ][br]
+// [     ]ミュージック・オフィス[    ][br]
+// [       ]あまやん[        ][next]
+[op47]
+      Composers      [br]
+    Music Office     [br]
+       Amayan        [br]
+[          ][         ][next]
+
+#END()
+
+// Script 0x57000-0x7 (0x570EA)
+// [clear][op47][     ]スペシャル　サンクス[     ][br]
+// [      ]ゆの　じょうじ[       ][br]
+// [          ][          ]
+[clear]
+[op47]
+[          ][         ][br]
+   Special Thanks    [br]
+      Joji Yuno      [br]
+[          ][         ]
+
+
+#END()
+
+// Script 0x57000-0x8 (0x57109)
+// [op47][          ][          ][br]
+// [       ]STAFF[        ][br]
+// [          ][          ]
+[op47]
+[          ][         ][br]
+[          ][         ][br]
+[       ]STAFF[        ][br]
+[          ][         ]
+
+#END()
+

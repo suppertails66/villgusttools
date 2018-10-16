@@ -1,0 +1,369 @@
+// Script 0xB586-0x0 (0xB5F0)
+// はなす[  ]
+Talk
+
+
+#END()
+
+// Script 0xB586-0x1 (0xB5F5)
+// つよさ[  ]
+Status
+
+
+#END()
+
+// Script 0xB586-0x2 (0xB5FA)
+// そうび[  ]
+Equipment[  ]
+
+
+#END()
+
+// Script 0xB586-0x3 (0xB600)
+// どうぐ[  ]
+Inventory[  ]
+
+
+#END()
+
+// Script 0xB586-0x4 (0xB607)
+// まほう[  ]
+Magic[  ]
+
+
+#END()
+
+// Script 0xB586-0x5 (0xB60C)
+// はいれつ　
+Arrange
+
+
+#END()
+
+// Script 0xB586-0x6 (0xB612)
+// しらべる　
+Search
+
+
+#END()
+
+// Script 0xB586-0x7 (0xB619)
+// たたかう　
+Fight
+
+
+#END()
+
+// Script 0xB586-0x8 (0xB61F)
+// はいれつ　
+Arrange
+
+
+#END()
+
+// Script 0xB586-0x9 (0xB625)
+// てきみる　
+Enemy Status
+
+
+#END()
+
+// Script 0xB586-0xA (0xB62B)
+// にげる[  ]
+Run[  ]
+
+
+#END()
+
+// Script 0xB586-0xB (0xB631)
+// オート[  ]
+Auto[  ]
+
+
+#END()
+
+// Script 0xB586-0xC (0xB636)
+// ボストフ
+Bostov
+
+
+#END()
+
+// Script 0xB586-0xD (0xB63C)
+// レミ[  ]
+Remi[  ]
+
+
+#END()
+
+// Script 0xB586-0xE (0xB640)
+// ムロボ　
+Murobo
+
+
+#END()
+
+// Script 0xB586-0xF (0xB646)
+// リュキア
+Ryuquir
+
+
+#END()
+
+// Script 0xB586-0x10 (0xB64B)
+// シルビィ
+Sylviee
+
+
+#END()
+
+// Script 0xB586-0x11 (0xB651)
+// リタひめ
+Princess Rita
+
+
+#END()
+
+// Script 0xB586-0x12 (0xB656)
+// ぜんいん
+All
+
+
+#END()
+
+// Script 0xB586-0x13 (0xB65C)
+// ーーーー
+----
+
+
+#END()
+
+// Script 0xB586-0x14 (0xB661)
+
+
+
+#END()
+
+// Script 0xB586-0x15 (0xB661)
+// [    ]
+[    ]
+
+
+#END()
+
+// Script 0xB586-0x16 (0xB663)
+// つかう　
+Use
+
+
+#END()
+
+// Script 0xB586-0x17 (0xB668)
+// すてる　
+Drop
+
+
+#END()
+
+// Script 0xB586-0x18 (0xB66D)
+// ないよ　
+None
+
+
+#END()
+
+// Script 0xB586-0x19 (0xB672)
+// ほのお　
+Fire
+
+
+#END()
+
+// Script 0xB586-0x1A (0xB677)
+// みず[  ]
+Water[  ]
+
+
+#END()
+
+// Script 0xB586-0x1B (0xB67C)
+// つち[  ]
+Earth
+
+
+#END()
+
+// Script 0xB586-0x1C (0xB680)
+// そうび　
+Equip
+
+
+#END()
+
+// Script 0xB586-0x1D (0xB686)
+// どうぐ　
+Items
+
+
+#END()
+
+// Script 0xB586-0x1E (0xB68D)
+// うる[  ]
+Sell[  ]
+
+
+#END()
+
+// Script 0xB586-0x1F (0xB691)
+// [    ]
+[    ]
+
+
+#END()
+
+// Script 0xB586-0x20 (0xB693)
+// むりょく
+KO
+
+
+#END()
+
+// Script 0xB586-0x21 (0xB698)
+// 　[ど]く　
+Poison
+
+
+#END()
+
+// Script 0xB586-0x22 (0xB69D)
+// 　まひ　
+Paralysis
+
+
+#END()
+
+// Script 0xB586-0x23 (0xB6A2)
+// こんらん
+Confusion
+
+
+#END()
+
+// Script 0xB586-0x24 (0xB6A7)
+// ねむり　
+Sleep
+
+
+#END()
+
+// Script 0xB586-0x25 (0xB6AC)
+// LIFE
+LIFE
+
+
+#END()
+
+// Script 0xB586-0x26 (0xB6B1)
+// [          ]　
+[          ]
+
+
+#END()
+
+// Script 0xB586-0x27 (0xB6B4)
+// ファイヤーボール[   ]
+
+
+#END()
+
+// Script 0xB586-0x28 (0xB6BF)
+// ファイヤーストーン[  ]
+Fire Stone[  ]
+
+
+#END()
+
+// Script 0xB586-0x29 (0xB6CA)
+// ヘルファイヤー[    ]
+Hellfire[    ]
+
+
+#END()
+
+// Script 0xB586-0x2A (0xB6D3)
+// エアーカッター[    ]
+Air Cutter[    ]
+
+
+#END()
+
+// Script 0xB586-0x2B (0xB6DC)
+// タイフーン[      ]
+Typhoon[      ]
+
+
+#END()
+
+// Script 0xB586-0x2C (0xB6E3)
+// ジェットハリケーン[  ]
+Jet Hurricane[  ]
+
+
+#END()
+
+// Script 0xB586-0x2D (0xB6EF)
+// ナイペタ[       ]
+Nypeta[       ]
+
+
+#END()
+
+// Script 0xB586-0x2E (0xB6F6)
+// サンダースパーク[   ]
+Thunder Spark[   ]
+
+
+#END()
+
+// Script 0xB586-0x2F (0xB702)
+// サンダーボルト[    ]
+Thunderbolt[    ]
+
+
+#END()
+
+// Script 0xB586-0x30 (0xB70D)
+// ヒール[        ]
+Heal[        ]
+
+
+#END()
+
+// Script 0xB586-0x31 (0xB712)
+// ヒーロール[      ]
+Heal Plus[      ]
+
+
+#END()
+
+// Script 0xB586-0x32 (0xB719)
+// ヒールアップ[     ]
+Heal Max[     ]
+
+
+#END()
+
+// Script 0xB586-0x33 (0xB722)
+// キュアポイズン[    ]
+Cure Poison[    ]
+
+
+#END()
+
+// Script 0xB586-0x34 (0xB72D)
+// エナージ[       ]
+Energize[       ]
+
+
+#END()
+

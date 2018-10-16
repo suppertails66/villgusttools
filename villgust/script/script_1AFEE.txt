@@ -1,0 +1,3405 @@
+#SETSIZE(-1, -1)
+
+// Script 0x1AFEE-0x0 (0x1B20E)
+// LIFE[     ]EXP[    ]ATP/　MGP
+LIFE[     ]EXP[    ]ATP/ MGP
+
+
+#END()
+
+// Script 0x1AFEE-0x1 (0x1B220)
+// DFP
+DFP
+
+
+#END()
+
+// Script 0x1AFEE-0x2 (0x1B224)
+// レベル:
+//Level:
+LVL:
+
+
+#END()
+
+// Script 0x1AFEE-0x3 (0x1B22A)
+// LIFE:
+LIFE:
+
+
+#END()
+
+// Script 0x1AFEE-0x4 (0x1B230)
+// EXP[        ]/
+EXP[        ]/
+
+
+#END()
+
+// Script 0x1AFEE-0x5 (0x1B236)
+// MGP[        ]/
+MGP[        ]/
+
+
+#END()
+
+// Script 0x1AFEE-0x6 (0x1B23C)
+// ATP[        ]ちから
+//ATP[        ]Strength
+ATP[        ]STR
+
+
+#END()
+
+// Script 0x1AFEE-0x7 (0x1B244)
+// DFP[        ]じょうぶさ
+//DFP[        ]Endurance
+DFP[        ]VIT  
+
+
+#END()
+
+// Script 0x1AFEE-0x8 (0x1B250)
+// W:[          ][  ]S:
+W:[          ][  ]S:
+
+
+#END()
+
+// Script 0x1AFEE-0x9 (0x1B257)
+// H:[          ][  ]B:
+H:[          ][  ]B:
+
+
+#END()
+
+// Script 0x1AFEE-0xA (0x1B25E)
+// A:[          ][  ]L:
+A:[          ][  ]L:
+
+
+#END()
+
+// Script 0x1AFEE-0xB (0x1B265)
+// ゴールド:
+Gold:
+
+
+#END()
+
+// Script 0x1AFEE-0xC (0x1B26D)
+// MGP:
+MGP:
+
+
+#END()
+
+// Script 0x1AFEE-0xD (0x1B272)
+// １・[     ]１・
+1-[     ]1-
+
+
+#END()
+
+// Script 0x1AFEE-0xE (0x1B278)
+// ２・[     ]２・
+2-[     ]2-
+
+
+#END()
+
+// Script 0x1AFEE-0xF (0x1B27E)
+// ３・[     ]３・
+3-[     ]3-
+
+
+#END()
+
+// Script 0x1AFEE-0x10 (0x1B284)
+// ４・[     ]４・
+4-[     ]4-
+
+
+#END()
+
+// Script 0x1AFEE-0x11 (0x1B28A)
+// ５・[     ]５・
+5-[     ]5-
+
+
+#END()
+
+// Script 0x1AFEE-0x12 (0x1B290)
+// ATP
+ATP
+
+
+#END()
+
+// Script 0x1AFEE-0x13 (0x1B294)
+// DFP
+DFP
+
+
+#END()
+
+// Script 0x1AFEE-0x14 (0x1B298)
+// W:
+W:
+
+
+#END()
+
+// Script 0x1AFEE-0x15 (0x1B29B)
+// S:
+S:
+
+
+#END()
+
+// Script 0x1AFEE-0x16 (0x1B29E)
+// H:
+H:
+
+
+#END()
+
+// Script 0x1AFEE-0x17 (0x1B2A1)
+// B:
+B:
+
+
+#END()
+
+// Script 0x1AFEE-0x18 (0x1B2A4)
+// A:
+A:
+
+
+#END()
+
+// Script 0x1AFEE-0x19 (0x1B2A7)
+// L:
+L:
+
+
+#END()
+
+// Script 0x1AFEE-0x1A (0x1B2AA)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x1B (0x1B2AA)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x1C (0x1B2AA)
+// MGP[    ]/
+MGP[    ]/
+
+
+#END()
+
+// Script 0x1AFEE-0x1D (0x1B2B0)
+// しようMGP
+//MGP Cost
+Cost    
+
+
+#END()
+
+// Script 0x1AFEE-0x1E (0x1B2B7)
+// MAPナンバー
+MAP Number
+
+
+#END()
+
+// Script 0x1AFEE-0x1F (0x1B2C0)
+// フラグ
+Flag
+
+
+#END()
+
+// Script 0x1AFEE-0x20 (0x1B2C5)
+// キャラナンバー
+Char Number
+
+
+#END()
+
+// Script 0x1AFEE-0x21 (0x1B2CE)
+// アクションキャラ
+Action Char.
+
+
+#END()
+
+// Script 0x1AFEE-0x22 (0x1B2D7)
+// マップキャラ
+Map Char
+
+
+#END()
+
+// Script 0x1AFEE-0x23 (0x1B2DF)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x24 (0x1B2DF)
+// つよさキャラ
+Str Char
+
+
+#END()
+
+// Script 0x1AFEE-0x25 (0x1B2E6)
+// デモ
+Demo
+
+
+#END()
+
+// Script 0x1AFEE-0x26 (0x1B2EA)
+// バトルはいけい
+Battle Bgr
+
+
+#END()
+
+// Script 0x1AFEE-0x27 (0x1B2F3)
+// かいわチェック
+Conversation Check
+
+
+#END()
+
+// Script 0x1AFEE-0x28 (0x1B2FB)
+// BGM
+BGM
+
+
+#END()
+
+// Script 0x1AFEE-0x29 (0x1B2FF)
+// SE
+SE
+
+
+#END()
+
+// Script 0x1AFEE-0x2A (0x1B302)
+// まほう
+//Magic
+MAG
+
+
+#END()
+
+// Script 0x1AFEE-0x2B (0x1B306)
+// どうぐ
+//Inventory
+ITM
+
+
+#END()
+
+// Script 0x1AFEE-0x2C (0x1B30C)
+// ぶき　
+//Weapon
+WPN
+
+
+#END()
+
+// Script 0x1AFEE-0x2D (0x1B311)
+// たて　:
+//Shield:
+SHI
+
+
+#END()
+
+// Script 0x1AFEE-0x2E (0x1B316)
+// かぶと
+//Helmet
+HLM
+
+#END()
+
+// Script 0x1AFEE-0x2F (0x1B31B)
+// よろい
+//Armor
+AMR
+
+#END()
+
+// Script 0x1AFEE-0x30 (0x1B31F)
+// こて　
+//Gauntlets
+GLV
+
+#END()
+
+// Script 0x1AFEE-0x31 (0x1B323)
+// ブーツ:
+//Boots:
+BTS
+
+#END()
+
+// Script 0x1AFEE-0x32 (0x1B329)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x33 (0x1B329)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x34 (0x1B329)
+// キャラナンバー
+Char Number
+
+
+#END()
+
+// Script 0x1AFEE-0x35 (0x1B332)
+// レベル
+Level
+
+
+#END()
+
+// Script 0x1AFEE-0x36 (0x1B337)
+// HP
+HP
+
+
+#END()
+
+// Script 0x1AFEE-0x37 (0x1B33A)
+// ATP
+ATP
+
+
+#END()
+
+// Script 0x1AFEE-0x38 (0x1B33E)
+// DFP
+DFP
+
+
+#END()
+
+// Script 0x1AFEE-0x39 (0x1B342)
+// まほうりょく
+Magic Attack
+
+
+#END()
+
+// Script 0x1AFEE-0x3A (0x1B349)
+// まほうぼうぎょ
+Magic Defense
+
+
+#END()
+
+// Script 0x1AFEE-0x3B (0x1B353)
+// かいひりつ
+Evasion Rate
+
+
+#END()
+
+// Script 0x1AFEE-0x3C (0x1B359)
+// ヒットりつ
+Hit Rate
+
+
+#END()
+
+// Script 0x1AFEE-0x3D (0x1B35F)
+// ぞくせい
+Attribute
+
+
+#END()
+
+// Script 0x1AFEE-0x3E (0x1B365)
+// どくのちりょう
+Heal Poison
+
+
+#END()
+
+// Script 0x1AFEE-0x3F (0x1B36E)
+// かつりょくをあたえる
+Revitalize
+
+
+#END()
+
+// Script 0x1AFEE-0x40 (0x1B379)
+// やめる
+Leave
+
+
+#END()
+
+// Script 0x1AFEE-0x41 (0x1B37D)
+// はい
+Yes
+
+
+#END()
+
+// Script 0x1AFEE-0x42 (0x1B380)
+// いいえ
+No
+
+
+#END()
+
+// Script 0x1AFEE-0x43 (0x1B384)
+// ニャゴ
+ Nyago
+
+
+#END()
+
+// Script 0x1AFEE-0x44 (0x1B389)
+// まじない
+//Enchanter
+ Mage 
+
+
+#END()
+
+// Script 0x1AFEE-0x45 (0x1B38F)
+// よろずや
+//Merchant
+//Seller
+ Shop 
+
+
+#END()
+
+// Script 0x1AFEE-0x46 (0x1B395)
+// やどや
+ Inn  
+
+
+#END()
+
+// Script 0x1AFEE-0x47 (0x1B39A)
+// そうび　かう
+//Buy Equipment
+Equipment
+
+
+#END()
+
+// Script 0x1AFEE-0x48 (0x1B3A2)
+// どうぐ　かう
+//Buy Items
+Items
+
+
+#END()
+
+// Script 0x1AFEE-0x49 (0x1B3AB)
+// そうび・どうぐ　うる
+//Sell Inventory
+Sell
+
+
+#END()
+
+// Script 0x1AFEE-0x4A (0x1B3B9)
+// やめる
+Leave
+
+
+#END()
+
+// Script 0x1AFEE-0x4B (0x1B3BD)
+// やどにとまる
+Stay at the Inn
+
+
+#END()
+
+// Script 0x1AFEE-0x4C (0x1B3C5)
+// きろくをとる
+Save
+
+
+#END()
+
+// Script 0x1AFEE-0x4D (0x1B3CC)
+// ぼうけんのきろく１
+File 1   
+
+#END()
+
+// Script 0x1AFEE-0x4E (0x1B3D7)
+// ぼうけんのきろく２
+File 2   
+
+#END()
+
+// Script 0x1AFEE-0x4F (0x1B3E2)
+// [          ]　
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x50 (0x1B3E5)
+// ストームブーメラン[  ]
+Storm Boomerang
+
+
+#END()
+
+// Script 0x1AFEE-0x51 (0x1B3F1)
+// てんしのつえ[   ]L[num]
+Angel Staff L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x52 (0x1B3FB)
+// こおりのつめ[     ]
+Ice Claws
+
+
+#END()
+
+// Script 0x1AFEE-0x53 (0x1B403)
+// ミラクルアックス[   ]
+Miracle Axe
+
+
+#END()
+
+// Script 0x1AFEE-0x54 (0x1B40D)
+// はがねのつめ[   ]L[num]
+Steel Claws L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x55 (0x1B418)
+// ほしのつえ[    ]L[num]
+Star Staff L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x56 (0x1B421)
+// ひかりのつえ[   ]L[num]
+Shining Staff L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x57 (0x1B42B)
+// ドラゴンスレイヤー[  ]
+Dragon Slayer
+
+
+#END()
+
+// Script 0x1AFEE-0x58 (0x1B438)
+// ブーメラン[    ]L[num]
+Boomerang L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x59 (0x1B442)
+// ブラックブーメランL[num]
+Black Boomerang L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x5A (0x1B450)
+// シルバーブーメランL[num]
+Silver Boomerang L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x5B (0x1B45E)
+// ゴールドブーメランL[num]
+Gold Boomerang L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x5C (0x1B46D)
+// シャイニングスター[  ]
+Shining Star
+
+
+#END()
+
+// Script 0x1AFEE-0x5D (0x1B479)
+// スタッフ[     ]L[num]
+Staff L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x5E (0x1B481)
+// まじゅつしのつえ　L[num]
+Magician Staff L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x5F (0x1B48E)
+// フェアリースタッフL[num]
+Fairy Staff L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x60 (0x1B49A)
+// せいなるつえ[     ]
+Holy Staff
+
+
+#END()
+
+// Script 0x1AFEE-0x61 (0x1B4A2)
+// ハンドアックス[  ]L[num]
+Hand Axe L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x62 (0x1B4AE)
+// てつのおの[    ]L[num]
+Iron Axe L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x63 (0x1B4B7)
+// バトルアックス[  ]L[num]
+Battle Axe L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x64 (0x1B4C3)
+// スペシャルアックスL[num]
+Special Axe L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x65 (0x1B4D0)
+// スーパーアックス　L[num]
+Super Axe L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x66 (0x1B4DD)
+// ニャゴのつめ[   ]L[num]
+Nyago's Claws L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x67 (0x1B4E8)
+// オーロラのつめ[    ]
+Aurora Claws
+
+
+#END()
+
+// Script 0x1AFEE-0x68 (0x1B4F1)
+// ムーンスタッフ[  ]L[num]
+Moon Staff L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x69 (0x1B4FC)
+// ねこのつめ[    ]L[num]
+Cat Claws L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x6A (0x1B505)
+// ライトスタッフ[  ]L[num]
+Light Staff L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x6B (0x1B510)
+// クリスタルスタッフL[num]
+Crystal Staff L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x6C (0x1B51C)
+// フレイムソード[    ]
+Flame Sword
+
+
+#END()
+
+// Script 0x1AFEE-0x6D (0x1B526)
+// りゅうじんのけん[   ]
+Dragon King Blade
+
+
+#END()
+
+// Script 0x1AFEE-0x6E (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x6F (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x70 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x71 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x72 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x73 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x74 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x75 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x76 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x77 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x78 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x79 (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x7A (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x7B (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x7C (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x7D (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x7E (0x1B531)
+
+
+
+#END()
+
+// Script 0x1AFEE-0x7F (0x1B531)
+// てつのたて[      ]
+Iron Shield
+
+
+#END()
+
+// Script 0x1AFEE-0x80 (0x1B538)
+// はじゃのかぶと[    ]
+Evilcrusher Helmet
+
+
+#END()
+
+// Script 0x1AFEE-0x81 (0x1B543)
+// はじゃのよろい[    ]
+Evilcrusher Armor
+
+
+#END()
+
+// Script 0x1AFEE-0x82 (0x1B54D)
+// はじゃのこて[     ]
+Evilcrusher Gauntlets
+
+#END()
+
+// Script 0x1AFEE-0x83 (0x1B556)
+// はじゃのあしアーマー　
+Evilcrusher Shins
+
+
+#END()
+
+// Script 0x1AFEE-0x84 (0x1B563)
+// ラージシールド[    ]
+Large Shield
+
+
+#END()
+
+// Script 0x1AFEE-0x85 (0x1B56E)
+// バトルヘルム[     ]
+Battle Helm
+
+
+#END()
+
+// Script 0x1AFEE-0x86 (0x1B577)
+// バトルメイル[     ]
+Battle Mail
+
+
+#END()
+
+// Script 0x1AFEE-0x87 (0x1B580)
+// バトルアーム[     ]
+Battle Arms
+
+
+#END()
+
+// Script 0x1AFEE-0x88 (0x1B589)
+// バトルガーター[    ]
+Battle Garters
+
+
+#END()
+
+// Script 0x1AFEE-0x89 (0x1B594)
+// ちえのかみかざり[   ]
+Wisdom Hairpin
+
+
+#END()
+
+// Script 0x1AFEE-0x8A (0x1B59F)
+// ひざあて[       ]
+Kneepads
+
+
+#END()
+
+// Script 0x1AFEE-0x8B (0x1B5A6)
+// かぜのよろい[     ]
+Wind Armor
+
+
+#END()
+
+// Script 0x1AFEE-0x8C (0x1B5AF)
+// すばやさのこて[    ]
+Nimble Gauntlets
+
+
+#END()
+
+// Script 0x1AFEE-0x8D (0x1B5B9)
+// かぜのあしアーマー[  ]
+Wind Shins
+
+
+#END()
+
+// Script 0x1AFEE-0x8E (0x1B5C5)
+// おとめのかんむり[   ]
+Maiden Tiara
+
+
+#END()
+
+// Script 0x1AFEE-0x8F (0x1B5CF)
+// まほうのおび[     ]
+Magic Sash
+
+
+#END()
+
+// Script 0x1AFEE-0x90 (0x1B5D8)
+// しのびのかぶと[    ]
+Ninja Headpiece
+
+
+#END()
+
+// Script 0x1AFEE-0x91 (0x1B5E3)
+// しのびのよろい[    ]
+Ninja Armor
+
+
+#END()
+
+// Script 0x1AFEE-0x92 (0x1B5ED)
+// にんじゅつのこて[   ]
+Ninja Gauntlets
+
+
+#END()
+
+// Script 0x1AFEE-0x93 (0x1B5F8)
+// まほうのかみかざり[  ]
+Magic Hairpin
+
+
+#END()
+
+// Script 0x1AFEE-0x94 (0x1B604)
+// ローブ[        ]
+Robe
+
+
+#END()
+
+// Script 0x1AFEE-0x95 (0x1B60A)
+// めがみのよろい[    ]
+Goddess Armor
+
+
+#END()
+
+// Script 0x1AFEE-0x96 (0x1B614)
+// めがみのあしアーマー　
+Goddess Shins
+
+
+#END()
+
+// Script 0x1AFEE-0x97 (0x1B621)
+// おとめのよろい[    ]
+Maiden Armor
+
+
+#END()
+
+// Script 0x1AFEE-0x98 (0x1B62A)
+// おとめのこて[     ]
+Maiden Gauntlets
+
+
+#END()
+
+// Script 0x1AFEE-0x99 (0x1B632)
+// おとめのあしアーマー　
+Maiden Shins
+
+
+#END()
+
+// Script 0x1AFEE-0x9A (0x1B63E)
+// まどうのかんむり[   ]
+Sorcerer Cap
+
+
+#END()
+
+// Script 0x1AFEE-0x9B (0x1B649)
+// まどうのこて[     ]
+Sorcerer Gauntlets
+
+
+#END()
+
+// Script 0x1AFEE-0x9C (0x1B652)
+// フェアリーヘルム[   ]
+Fairy Helm
+
+
+#END()
+
+// Script 0x1AFEE-0x9D (0x1B65C)
+// フェアリーメイル[   ]
+Fairy Mail
+
+
+#END()
+
+// Script 0x1AFEE-0x9E (0x1B666)
+// フェアリーガーター[  ]
+Fairy Garter
+
+
+#END()
+
+// Script 0x1AFEE-0x9F (0x1B672)
+// ニャゴのガーター[   ]
+Nyago's Garter
+
+
+#END()
+
+// Script 0x1AFEE-0xA0 (0x1B67E)
+// ニャゴのよろい[    ]
+Nyago's Armor
+
+
+#END()
+
+// Script 0x1AFEE-0xA1 (0x1B688)
+// りゅうのかんむり[   ]
+Dragon Tiara
+
+
+#END()
+
+// Script 0x1AFEE-0xA2 (0x1B692)
+// りゅうのよろい[    ]
+Dragon Armor
+
+
+#END()
+
+// Script 0x1AFEE-0xA3 (0x1B69B)
+// りゅうのあしアーマー　
+Dragon Shins
+
+
+#END()
+
+// Script 0x1AFEE-0xA4 (0x1B6A7)
+// はやてのよろい[    ]
+Gale Armor
+
+
+#END()
+
+// Script 0x1AFEE-0xA5 (0x1B6B0)
+// はやてのあしアーマー　
+Gale Shins
+
+
+#END()
+
+// Script 0x1AFEE-0xA6 (0x1B6BC)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xA7 (0x1B6BC)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xA8 (0x1B6BC)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xA9 (0x1B6BC)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xAA (0x1B6BC)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xAB (0x1B6BC)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xAC (0x1B6BC)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xAD (0x1B6BC)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xAE (0x1B6BC)
+
+
+
+#END()
+
+// items (pad to 11 chars in orig game)
+
+// Script 0x1AFEE-0xAF (0x1B6BC)
+// かいふくがん[     ]
+Medicine
+
+
+#END()
+
+// Script 0x1AFEE-0xB0 (0x1B6C5)
+// どくけし[       ]
+Antidote
+
+
+#END()
+
+// Script 0x1AFEE-0xB1 (0x1B6CC)
+// シンセンタン[     ]
+Ambrosia
+
+
+#END()
+
+// Script 0x1AFEE-0xB2 (0x1B6D4)
+// きせきがん[      ]
+Miracle Drug
+
+
+#END()
+
+// Script 0x1AFEE-0xB3 (0x1B6DC)
+// だいかいふくがん[   ]
+Great Medicine
+
+
+#END()
+
+// Script 0x1AFEE-0xB4 (0x1B6E8)
+// せいめいがん[     ]
+Super Medicine
+
+
+#END()
+
+// Script 0x1AFEE-0xB5 (0x1B6F1)
+// かつりょくがん[    ]
+Salts
+
+
+#END()
+
+// Script 0x1AFEE-0xB6 (0x1B6FB)
+// ひらめきのとびら[   ]
+Getout Doorway
+
+
+#END()
+
+// Script 0x1AFEE-0xB7 (0x1B706)
+// サカナ[        ]
+Fish
+
+
+#END()
+
+// Script 0x1AFEE-0xB8 (0x1B70B)
+// めがみのおまもり[   ]
+Goddess Charm
+
+
+#END()
+
+// Script 0x1AFEE-0xB9 (0x1B716)
+// いしのはな[      ]
+Stone Flower
+
+
+#END()
+
+// Script 0x1AFEE-0xBA (0x1B71D)
+// ふしぎなくすり[    ]
+Wonder Salve
+
+
+#END()
+
+// Script 0x1AFEE-0xBB (0x1B727)
+// はなのしる[      ]
+Flower Sap
+
+
+#END()
+
+// Script 0x1AFEE-0xBC (0x1B72E)
+// ひかるたま[      ]
+Light Orb
+
+
+#END()
+
+// Script 0x1AFEE-0xBD (0x1B735)
+// ぬの[         ]
+Cloth
+
+
+#END()
+
+// Script 0x1AFEE-0xBE (0x1B739)
+// ぼう[         ]
+Pole
+
+
+#END()
+
+// Script 0x1AFEE-0xBF (0x1B73E)
+// いた[         ]
+Planks
+
+
+#END()
+
+// Script 0x1AFEE-0xC0 (0x1B742)
+// ながれのつえ[     ]
+Current Staff
+
+
+#END()
+
+// Script 0x1AFEE-0xC1 (0x1B74B)
+// うつしみのかがみ[   ]
+Duplication Mirror
+
+
+#END()
+
+// Script 0x1AFEE-0xC2 (0x1B756)
+// せいじゃのみず[    ]
+Holy Water
+
+
+#END()
+
+// Script 0x1AFEE-0xC3 (0x1B761)
+// ひたちのき[      ]
+Evergrowing Wood
+
+
+#END()
+
+// Script 0x1AFEE-0xC4 (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xC5 (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xC6 (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xC7 (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xC8 (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xC9 (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xCA (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xCB (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xCC (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xCD (0x1B768)
+
+
+
+#END()
+
+// Script 0x1AFEE-0xCE (0x1B768)
+// いすずジェミニ[    ]
+Isuzu Gemini
+
+
+#END()
+
+// monster names (pad to 11 chars in orig game)
+
+// Script 0x1AFEE-0xCF (0x1B773)
+// ボストフ[       ]
+Bostov
+
+
+#END()
+
+// Script 0x1AFEE-0xD0 (0x1B77A)
+// レミ[         ]
+Remi
+
+
+#END()
+
+// Script 0x1AFEE-0xD1 (0x1B77E)
+// ムロボ[        ]
+Murobo
+
+
+#END()
+
+// Script 0x1AFEE-0xD2 (0x1B784)
+// リュキア[       ]
+Ryuquir
+
+
+#END()
+
+// Script 0x1AFEE-0xD3 (0x1B78A)
+// シルビィ[       ]
+Sylviee
+
+
+#END()
+
+// Script 0x1AFEE-0xD4 (0x1B791)
+// リタひめ[       ]
+//Princess Rita
+Rita
+
+
+#END()
+
+// Script 0x1AFEE-0xD5 (0x1B797)
+// [          ]　
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xD6 (0x1B79A)
+// [          ]　
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xD7 (0x1B79D)
+// エビルスライム[    ]
+Evil Slime
+
+
+#END()
+
+// Script 0x1AFEE-0xD8 (0x1B7A7)
+// オークファイター[   ]
+Ork Fighter
+
+
+#END()
+
+// Script 0x1AFEE-0xD9 (0x1B7B1)
+// ダルスライム[     ]
+Heavy Slime
+
+
+#END()
+
+// Script 0x1AFEE-0xDA (0x1B7BA)
+// スケルトンソルジャー　
+Skeleton Soldier
+
+
+#END()
+
+// Script 0x1AFEE-0xDB (0x1B7C7)
+// オークファイター[   ]
+Ork Fighter
+
+
+#END()
+
+// Script 0x1AFEE-0xDC (0x1B7D1)
+// まじゅつし[      ]
+Sorcerer
+
+
+#END()
+
+// Script 0x1AFEE-0xDD (0x1B7D9)
+// ゴーストまじゅつし[  ]
+Ghost Sorcerer
+
+
+#END()
+
+// Script 0x1AFEE-0xDE (0x1B7E6)
+// おおぐも[       ]
+Large Spider
+
+
+#END()
+
+// Script 0x1AFEE-0xDF (0x1B7ED)
+// コカトリス[      ]
+Cockatrice
+
+
+#END()
+
+// Script 0x1AFEE-0xE0 (0x1B7F4)
+// パンプキンゴースト[  ]
+Pumpkin Ghost
+
+
+#END()
+
+// Script 0x1AFEE-0xE1 (0x1B802)
+// アンデットピープル[  ]
+Undead
+
+
+#END()
+
+// Script 0x1AFEE-0xE2 (0x1B810)
+// ヨロイアルマジロ[   ]
+Armored Armadillo
+
+
+#END()
+
+// Script 0x1AFEE-0xE3 (0x1B81B)
+// モルグピープル[    ]
+Morguefolk
+
+
+#END()
+
+// Script 0x1AFEE-0xE4 (0x1B827)
+// ドクロサソリ[     ]
+Skull Scorpion
+
+
+#END()
+
+// Script 0x1AFEE-0xE5 (0x1B830)
+// ウッドドワーフ[    ]
+Wood Dwarf
+
+
+#END()
+
+// Script 0x1AFEE-0xE6 (0x1B83B)
+// ハーフドワーフ[    ]
+Half-Dwarf
+
+
+#END()
+
+// Script 0x1AFEE-0xE7 (0x1B845)
+// ルードクレック[    ]
+Rude Krek
+
+
+#END()
+
+// Script 0x1AFEE-0xE8 (0x1B84F)
+// デスクレック[     ]
+Death Krek
+
+
+#END()
+
+// Script 0x1AFEE-0xE9 (0x1B858)
+// ミイラキャット[    ]
+Embalmed Cat
+
+
+#END()
+
+// Script 0x1AFEE-0xEA (0x1B861)
+// マミーキャット[    ]
+Mummy Cat
+
+
+#END()
+
+// Script 0x1AFEE-0xEB (0x1B86A)
+// キュオナ[       ]
+Quona
+
+
+#END()
+
+// Script 0x1AFEE-0xEC (0x1B870)
+// ヤシフ[        ]
+Yasiev
+
+
+#END()
+
+// Script 0x1AFEE-0xED (0x1B875)
+// キュオナ[       ]
+Quona
+
+
+#END()
+
+// Script 0x1AFEE-0xEE (0x1B87B)
+// キラーサソリ[     ]
+Killer Scorpion
+
+
+#END()
+
+// Script 0x1AFEE-0xEF (0x1B883)
+// フロートゼリー[    ]
+Floating Jelly
+
+
+#END()
+
+// Script 0x1AFEE-0xF0 (0x1B88D)
+// ヤシフ[        ]
+Yasiev
+
+
+#END()
+
+// Script 0x1AFEE-0xF1 (0x1B892)
+// キラーフィッシュ[   ]
+Killer Fish
+
+
+#END()
+
+// Script 0x1AFEE-0xF2 (0x1B89C)
+// リトルドラゴン[    ]
+Little Dragon
+
+
+#END()
+
+// Script 0x1AFEE-0xF3 (0x1B8A7)
+// エルレイス[      ]
+Wraith
+
+
+#END()
+
+// Script 0x1AFEE-0xF4 (0x1B8AE)
+// ダークレイス[     ]
+Dark Wraith
+
+
+#END()
+
+// Script 0x1AFEE-0xF5 (0x1B8B7)
+// マウスグレート[    ]
+Mousegreat
+
+
+#END()
+
+// Script 0x1AFEE-0xF6 (0x1B8C1)
+// アンデットピープル[  ]
+Undead
+
+
+#END()
+
+// Script 0x1AFEE-0xF7 (0x1B8CF)
+// なし[         ]
+None
+
+
+#END()
+
+// Script 0x1AFEE-0xF8 (0x1B8D3)
+// バジリスク[      ]
+Basilisk
+
+
+#END()
+
+// Script 0x1AFEE-0xF9 (0x1B8DC)
+// マウスグレート[    ]
+Mousegreat
+
+
+#END()
+
+// Script 0x1AFEE-0xFA (0x1B8E6)
+// なし[         ]
+None
+
+
+#END()
+
+// Script 0x1AFEE-0xFB (0x1B8EA)
+// しょうにん[      ]
+Merchant
+
+
+#END()
+
+// Script 0x1AFEE-0xFC (0x1B8F1)
+// しけんかん　ハッシュ　
+Examiner Hash
+
+
+#END()
+
+// Script 0x1AFEE-0xFD (0x1B8FD)
+// ましんかん[      ]
+Devil Priest
+
+
+#END()
+
+// Script 0x1AFEE-0xFE (0x1B904)
+// レミ[         ]
+Remi
+
+
+#END()
+
+// Script 0x1AFEE-0xFF (0x1B908)
+// かいぞく[       ]
+Pirate
+
+
+#END()
+
+// Script 0x1AFEE-0x100 (0x1B90F)
+// なし[         ]
+None
+
+
+#END()
+
+// Script 0x1AFEE-0x101 (0x1B913)
+// ポットミミック１[   ]
+Vase Mimic 1
+
+
+#END()
+
+// Script 0x1AFEE-0x102 (0x1B91E)
+// ポットミミック２[   ]
+Vase Mimic 2
+
+
+#END()
+
+// Script 0x1AFEE-0x103 (0x1B929)
+// じゃしんかん・ガディ　
+Evil Priest Gady
+
+
+#END()
+
+// Script 0x1AFEE-0x104 (0x1B938)
+// じゃしんかん・アックス
+Evil Priest Ax
+
+
+#END()
+
+// Script 0x1AFEE-0x105 (0x1B945)
+// フラワーゴースト１[  ]
+Flower Ghost 1
+
+
+#END()
+
+// Script 0x1AFEE-0x106 (0x1B951)
+// フラワーゴースト２[  ]
+Flower Ghost 2
+
+
+#END()
+
+// Script 0x1AFEE-0x107 (0x1B95D)
+// フラワーゴースト３[  ]
+Flower Ghost 3
+
+
+#END()
+
+// Script 0x1AFEE-0x108 (0x1B969)
+// フラワーゴースト４[  ]
+Flower Ghost 4
+
+
+#END()
+
+// Script 0x1AFEE-0x109 (0x1B975)
+// フラワーゴースト５[  ]
+Flower Ghost 5
+
+
+#END()
+
+// Script 0x1AFEE-0x10A (0x1B981)
+// ゴーレム[       ]
+Golem
+
+
+#END()
+
+// Script 0x1AFEE-0x10B (0x1B988)
+// コドラ１[       ]
+Codra 1
+
+
+#END()
+
+// Script 0x1AFEE-0x10C (0x1B98F)
+// コドラ２[       ]
+Codra 2
+
+
+#END()
+
+// Script 0x1AFEE-0x10D (0x1B996)
+// コドラ３[       ]
+Codra 3
+
+
+#END()
+
+// Script 0x1AFEE-0x10E (0x1B99D)
+// コドラ４[       ]
+Codra 4
+
+
+#END()
+
+// Script 0x1AFEE-0x10F (0x1B9A4)
+// コドラ５[       ]
+Codra 5
+
+
+#END()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// NEW: 2-line monster names
+// format for 11-char width
+
+
+
+
+// Script 0x1AFEE-0x110 (0x1B773)
+// ボストフ[       ]
+[          ] [end]
+Bostov     
+
+
+#END()
+
+// レミ[         ]
+[          ] [end]
+Remi       
+
+
+#END()
+
+// ムロボ[        ]
+[          ] [end]
+Murobo     
+
+
+#END()
+
+// Script 0x1AFEE-0xD2 (0x1B784)
+// リュキア[       ]
+[          ] [end]
+Ryuquir    
+
+
+#END()
+
+// Script 0x1AFEE-0xD3 (0x1B78A)
+// シルビィ[       ]
+[          ] [end]
+Sylviee    
+
+
+#END()
+
+// Script 0x1AFEE-0xD4 (0x1B791)
+// リタひめ[       ]
+Princess   [end]
+  Rita     
+
+
+#END()
+
+// Script 0x1AFEE-0xD5 (0x1B797)
+// [          ]　
+[          ] [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xD6 (0x1B79A)
+// [          ]　
+[          ] [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xD7 (0x1B79D)
+// エビルスライム[    ]
+[          ] [end]
+Evil Slime 
+
+
+#END()
+
+// Script 0x1AFEE-0xD8 (0x1B7A7)
+// オークファイター[   ]
+[          ] [end]
+Ork Fighter
+
+
+#END()
+
+// Script 0x1AFEE-0xD9 (0x1B7B1)
+// ダルスライム[     ]
+[          ] [end]
+Heavy Slime
+
+
+#END()
+
+// Script 0x1AFEE-0xDA (0x1B7BA)
+// スケルトンソルジャー　
+Skeleton   [end]
+  Soldier  
+
+
+#END()
+
+// Script 0x1AFEE-0xDB (0x1B7C7)
+// オークファイター[   ]
+[          ] [end]
+Ork Fighter
+
+
+#END()
+
+// Script 0x1AFEE-0xDC (0x1B7D1)
+// まじゅつし[      ]
+[          ] [end]
+Sorcerer   
+
+
+#END()
+
+// Script 0x1AFEE-0xDD (0x1B7D9)
+// ゴーストまじゅつし[  ]
+Ghost      [end]
+  Sorcerer 
+
+
+#END()
+
+// Script 0x1AFEE-0xDE (0x1B7E6)
+// おおぐも[       ]
+Large      [end]
+  Spider   
+
+
+#END()
+
+// Script 0x1AFEE-0xDF (0x1B7ED)
+// コカトリス[      ]
+[          ] [end]
+Cockatrice 
+
+
+#END()
+
+// Script 0x1AFEE-0xE0 (0x1B7F4)
+// パンプキンゴースト[  ]
+Pumpkin    [end]
+  Ghost    
+
+
+#END()
+
+// Script 0x1AFEE-0xE1 (0x1B802)
+// アンデットピープル[  ]
+[          ] [end]
+Undead     
+
+
+#END()
+
+// Script 0x1AFEE-0xE2 (0x1B810)
+// ヨロイアルマジロ[   ]
+Armored    [end]
+  Armadillo
+
+
+#END()
+
+// Script 0x1AFEE-0xE3 (0x1B81B)
+// モルグピープル[    ]
+[          ] [end]
+Morguefolk 
+
+
+#END()
+
+// Script 0x1AFEE-0xE4 (0x1B827)
+// ドクロサソリ[     ]
+Skull      [end]
+  Scorpion 
+
+
+#END()
+
+// Script 0x1AFEE-0xE5 (0x1B830)
+// ウッドドワーフ[    ]
+[          ] [end]
+Wood Dwarf 
+
+
+#END()
+
+// Script 0x1AFEE-0xE6 (0x1B83B)
+// ハーフドワーフ[    ]
+[          ] [end]
+Half-Dwarf 
+
+
+#END()
+
+// Script 0x1AFEE-0xE7 (0x1B845)
+// ルードクレック[    ]
+[          ] [end]
+Rude Krek  
+
+
+#END()
+
+// Script 0x1AFEE-0xE8 (0x1B84F)
+// デスクレック[     ]
+[          ] [end]
+Death Krek 
+
+
+#END()
+
+// Script 0x1AFEE-0xE9 (0x1B858)
+// ミイラキャット[    ]
+Embalmed   [end]
+  Cat      
+
+
+#END()
+
+// Script 0x1AFEE-0xEA (0x1B861)
+// マミーキャット[    ]
+[          ] [end]
+Mummy Cat  
+
+
+#END()
+
+// Script 0x1AFEE-0xEB (0x1B86A)
+// キュオナ[       ]
+[          ] [end]
+Quona      
+
+
+#END()
+
+// Script 0x1AFEE-0xEC (0x1B870)
+// ヤシフ[        ]
+[          ] [end]
+Yasiev     
+
+
+#END()
+
+// Script 0x1AFEE-0xED (0x1B875)
+// キュオナ[       ]
+[          ] [end]
+Quona      
+
+
+#END()
+
+// Script 0x1AFEE-0xEE (0x1B87B)
+// キラーサソリ[     ]
+Killer     [end]
+  Scorpion 
+
+
+#END()
+
+// Script 0x1AFEE-0xEF (0x1B883)
+// フロートゼリー[    ]
+Floating   [end]
+  Jelly    
+
+
+#END()
+
+// Script 0x1AFEE-0xF0 (0x1B88D)
+// ヤシフ[        ]
+[          ] [end]
+Yasiev     
+
+
+#END()
+
+// Script 0x1AFEE-0xF1 (0x1B892)
+// キラーフィッシュ[   ]
+[          ] [end]
+Killer Fish
+
+
+#END()
+
+// Script 0x1AFEE-0xF2 (0x1B89C)
+// リトルドラゴン[    ]
+Little     [end]
+  Dragon   
+
+
+#END()
+
+// Script 0x1AFEE-0xF3 (0x1B8A7)
+// エルレイス[      ]
+[          ] [end]
+Wraith     
+
+
+#END()
+
+// Script 0x1AFEE-0xF4 (0x1B8AE)
+// ダークレイス[     ]
+[          ] [end]
+Dark Wraith
+
+
+#END()
+
+// Script 0x1AFEE-0xF5 (0x1B8B7)
+// マウスグレート[    ]
+[          ] [end]
+Mousegreat 
+
+
+#END()
+
+// Script 0x1AFEE-0xF6 (0x1B8C1)
+// アンデットピープル[  ]
+[          ] [end]
+Undead     
+
+
+#END()
+
+// Script 0x1AFEE-0xF7 (0x1B8CF)
+// なし[         ]
+[          ] [end]
+None       
+
+
+#END()
+
+// Script 0x1AFEE-0xF8 (0x1B8D3)
+// バジリスク[      ]
+[          ] [end]
+Basilisk   
+
+
+#END()
+
+// Script 0x1AFEE-0xF9 (0x1B8DC)
+// マウスグレート[    ]
+[          ] [end]
+Mousegreat 
+
+
+#END()
+
+// Script 0x1AFEE-0xFA (0x1B8E6)
+// なし[         ]
+[          ] [end]
+None       
+
+
+#END()
+
+// Script 0x1AFEE-0xFB (0x1B8EA)
+// しょうにん[      ]
+[          ] [end]
+Merchant   
+
+
+#END()
+
+// Script 0x1AFEE-0xFC (0x1B8F1)
+// しけんかん　ハッシュ　
+Examiner   [end]
+  Hash     
+
+
+#END()
+
+// Script 0x1AFEE-0xFD (0x1B8FD)
+// ましんかん[      ]
+Devil      [end]
+  Priest   
+
+
+#END()
+
+// Script 0x1AFEE-0xFE (0x1B904)
+// レミ[         ]
+[          ] [end]
+Remi       
+
+
+#END()
+
+// Script 0x1AFEE-0xFF (0x1B908)
+// かいぞく[       ]
+[          ] [end]
+Pirate     
+
+
+#END()
+
+// Script 0x1AFEE-0x100 (0x1B90F)
+// なし[         ]
+[          ] [end]
+None       
+
+
+#END()
+
+// Script 0x1AFEE-0x101 (0x1B913)
+// ポットミミック１[   ]
+Vase Mimic [end]
+  1        
+
+
+#END()
+
+// Script 0x1AFEE-0x102 (0x1B91E)
+// ポットミミック２[   ]
+Vase Mimic [end]
+ 2         
+
+
+#END()
+
+// Script 0x1AFEE-0x103 (0x1B929)
+// じゃしんかん・ガディ　
+Evil Priest[end]
+  Gady     
+
+
+#END()
+
+// Script 0x1AFEE-0x104 (0x1B938)
+// じゃしんかん・アックス
+Evil Priest[end]
+  Ax       
+
+
+#END()
+
+// Script 0x1AFEE-0x105 (0x1B945)
+// フラワーゴースト１[  ]
+Flower     [end]
+  Ghost 1  
+
+
+#END()
+
+// Script 0x1AFEE-0x106 (0x1B951)
+// フラワーゴースト２[  ]
+Flower     [end]
+  Ghost 2  
+
+
+#END()
+
+// Script 0x1AFEE-0x107 (0x1B95D)
+// フラワーゴースト３[  ]
+Flower     [end]
+  Ghost 3  
+
+
+#END()
+
+// Script 0x1AFEE-0x108 (0x1B969)
+// フラワーゴースト４[  ]
+Flower     [end]
+  Ghost 4  
+
+
+#END()
+
+// Script 0x1AFEE-0x109 (0x1B975)
+// フラワーゴースト５[  ]
+Flower     [end]
+  Ghost 5  
+
+
+#END()
+
+// Script 0x1AFEE-0x10A (0x1B981)
+// ゴーレム[       ]
+[          ] [end]
+Golem      
+
+
+#END()
+
+// Script 0x1AFEE-0x10B (0x1B988)
+// コドラ１[       ]
+[          ] [end]
+Codra 1    
+
+
+#END()
+
+// Script 0x1AFEE-0x10C (0x1B98F)
+// コドラ２[       ]
+[          ] [end]
+Codra 2    
+
+
+#END()
+
+// Script 0x1AFEE-0x10D (0x1B996)
+// コドラ３[       ]
+[          ] [end]
+Codra 3    
+
+
+#END()
+
+// Script 0x1AFEE-0x10E (0x1B99D)
+// コドラ４[       ]
+[          ] [end]
+Codra 4    
+
+
+#END()
+
+// Script 0x1AFEE-0x10F (0x1B9A4)
+// コドラ５[       ]
+[          ] [end]
+Codra 5    
+
+
+#END()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// NEW item names
+
+
+
+// Script 0x1AFEE-0x151
+// [          ]　
+[          ] [end]
+           
+
+
+#END()
+
+// Script 0x1AFEE-0x50 (0x1B3E5)
+// ストームブーメラン[  ]
+Storm      [end]
+  Boomerang
+
+
+#END()
+
+// Script 0x1AFEE-0x51 (0x1B3F1)
+// てんしのつえ[   ]L[num]
+Angel Staff[end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x52 (0x1B3FB)
+// こおりのつめ[     ]
+Ice Claws  [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x53 (0x1B403)
+// ミラクルアックス[   ]
+Miracle Axe[end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x54 (0x1B40D)
+// はがねのつめ[   ]L[num]
+Steel Claws[end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x55 (0x1B418)
+// ほしのつえ[    ]L[num]
+Star Staff [end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x56 (0x1B421)
+// ひかりのつえ[   ]L[num]
+Shining    [end]
+  Staff L[num] 
+
+
+#END()
+
+// Script 0x1AFEE-0x57 (0x1B42B)
+// ドラゴンスレイヤー[  ]
+Dragon     [end]
+  Slayer   
+
+
+#END()
+
+// Script 0x1AFEE-0x58 (0x1B438)
+// ブーメラン[    ]L[num]
+Boomerang  [end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x59 (0x1B442)
+// ブラックブーメランL[num]
+Black Boo- [end]
+  merang L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x5A (0x1B450)
+// シルバーブーメランL[num]
+Silver Boo-[end]
+  merang L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x5B (0x1B45E)
+// ゴールドブーメランL[num]
+Gold Boo-  [end]
+  merang L[num]
+
+
+#END()
+
+// Script 0x1AFEE-0x5C (0x1B46D)
+// シャイニングスター[  ]
+Shining    [end]
+  Star     
+
+
+#END()
+
+// Script 0x1AFEE-0x5D (0x1B479)
+// スタッフ[     ]L[num]
+Staff L[num]   [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x5E (0x1B481)
+// まじゅつしのつえ　L[num]
+Magician   [end]
+  Staff L[num] 
+
+
+#END()
+
+// Script 0x1AFEE-0x5F (0x1B48E)
+// フェアリースタッフL[num]
+Fairy Staff[end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x60 (0x1B49A)
+// せいなるつえ[     ]
+Holy Staff [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x61 (0x1B4A2)
+// ハンドアックス[  ]L[num]
+Hand Axe L[num][end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x62 (0x1B4AE)
+// てつのおの[    ]L[num]
+Iron Axe L[num][end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x63 (0x1B4B7)
+// バトルアックス[  ]L[num]
+Battle Axe [end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x64 (0x1B4C3)
+// スペシャルアックスL[num]
+Special Axe[end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x65 (0x1B4D0)
+// スーパーアックス　L[num]
+Super Axe  [end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x66 (0x1B4DD)
+// ニャゴのつめ[   ]L[num]
+Nyago's    [end]
+  Claws L[num] 
+
+
+#END()
+
+// Script 0x1AFEE-0x67 (0x1B4E8)
+// オーロラのつめ[    ]
+Aurora     [end]
+  Claws    
+
+
+#END()
+
+// Script 0x1AFEE-0x68 (0x1B4F1)
+// ムーンスタッフ[  ]L[num]
+Moon Staff [end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x69 (0x1B4FC)
+// ねこのつめ[    ]L[num]
+Cat Claws  [end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x6A (0x1B505)
+// ライトスタッフ[  ]L[num]
+Light Staff[end]
+  L[num]       
+
+
+#END()
+
+// Script 0x1AFEE-0x6B (0x1B510)
+// クリスタルスタッフL[num]
+Crystal    [end]
+  Staff L[num] 
+
+
+#END()
+
+// Script 0x1AFEE-0x6C (0x1B51C)
+// フレイムソード[    ]
+Flame Sword[end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x6D (0x1B526)
+// りゅうじんのけん[   ]
+Dragon King[end]
+  Blade    
+
+
+#END()
+
+// Script 0x1AFEE-0x6E (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x6F (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x70 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x71 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x72 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x73 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x74 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x75 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x76 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x77 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x78 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x79 (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x7A (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x7B (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x7C (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x7D (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x7E (0x1B531)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0x7F (0x1B531)
+// てつのたて[      ]
+Iron Shield[end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x80 (0x1B538)
+// はじゃのかぶと[    ]
+Evilcrusher[end]
+  Helmet   
+
+
+#END()
+
+// Script 0x1AFEE-0x81 (0x1B543)
+// はじゃのよろい[    ]
+Evilcrusher[end]
+  Armor    
+
+
+#END()
+
+// Script 0x1AFEE-0x82 (0x1B54D)
+// はじゃのこて[     ]
+Evilcrusher[end]
+  Gauntlets
+
+#END()
+
+// Script 0x1AFEE-0x83 (0x1B556)
+// はじゃのあしアーマー　
+Evilcrusher[end]
+  Shins    
+
+
+#END()
+
+// Script 0x1AFEE-0x84 (0x1B563)
+// ラージシールド[    ]
+Large      [end]
+  Shield   
+
+
+#END()
+
+// Script 0x1AFEE-0x85 (0x1B56E)
+// バトルヘルム[     ]
+Battle Helm[end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x86 (0x1B577)
+// バトルメイル[     ]
+Battle Mail[end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x87 (0x1B580)
+// バトルアーム[     ]
+Battle Arms[end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x88 (0x1B589)
+// バトルガーター[    ]
+Battle     [end]
+  Garters  
+
+
+#END()
+
+// Script 0x1AFEE-0x89 (0x1B594)
+// ちえのかみかざり[   ]
+Wisdom     [end]
+  Hairpin  
+
+
+#END()
+
+// Script 0x1AFEE-0x8A (0x1B59F)
+// ひざあて[       ]
+Kneepads   [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x8B (0x1B5A6)
+// かぜのよろい[     ]
+Wind Armor [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x8C (0x1B5AF)
+// すばやさのこて[    ]
+Nimble     [end]
+  Gauntlets
+
+
+#END()
+
+// Script 0x1AFEE-0x8D (0x1B5B9)
+// かぜのあしアーマー[  ]
+Wind Shins [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x8E (0x1B5C5)
+// おとめのかんむり[   ]
+Maiden     [end]
+  Tiara    
+
+
+#END()
+
+// Script 0x1AFEE-0x8F (0x1B5CF)
+// まほうのおび[     ]
+Magic Sash [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x90 (0x1B5D8)
+// しのびのかぶと[    ]
+Ninja      [end]
+  Headpiece
+
+
+#END()
+
+// Script 0x1AFEE-0x91 (0x1B5E3)
+// しのびのよろい[    ]
+Ninja Armor[end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x92 (0x1B5ED)
+// にんじゅつのこて[   ]
+Ninja      [end]
+  Gauntlets
+
+
+#END()
+
+// Script 0x1AFEE-0x93 (0x1B5F8)
+// まほうのかみかざり[  ]
+Magic      [end]
+  Hairpin  
+
+
+#END()
+
+// Script 0x1AFEE-0x94 (0x1B604)
+// ローブ[        ]
+Robe       [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x95 (0x1B60A)
+// めがみのよろい[    ]
+Goddess    [end]
+  Armor    
+
+
+#END()
+
+// Script 0x1AFEE-0x96 (0x1B614)
+// めがみのあしアーマー　
+Goddess    [end]
+  Shins    
+
+
+#END()
+
+// Script 0x1AFEE-0x97 (0x1B621)
+// おとめのよろい[    ]
+Maiden     [end]
+  Armor    
+
+
+#END()
+
+// Script 0x1AFEE-0x98 (0x1B62A)
+// おとめのこて[     ]
+Maiden     [end]
+  Gauntlets
+
+
+#END()
+
+// Script 0x1AFEE-0x99 (0x1B632)
+// おとめのあしアーマー　
+Maiden     [end]
+  Shins    
+
+
+#END()
+
+// Script 0x1AFEE-0x9A (0x1B63E)
+// まどうのかんむり[   ]
+Sorcerer   [end]
+  Cap      
+
+
+#END()
+
+// Script 0x1AFEE-0x9B (0x1B649)
+// まどうのこて[     ]
+Sorcerer   [end]
+  Gauntlets
+
+
+#END()
+
+// Script 0x1AFEE-0x9C (0x1B652)
+// フェアリーヘルム[   ]
+Fairy Helm [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x9D (0x1B65C)
+// フェアリーメイル[   ]
+Fairy Mail [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0x9E (0x1B666)
+// フェアリーガーター[  ]
+Fairy      [end]
+  Garter   
+
+
+#END()
+
+// Script 0x1AFEE-0x9F (0x1B672)
+// ニャゴのガーター[   ]
+Nyago's    [end]
+  Garter   
+
+
+#END()
+
+// Script 0x1AFEE-0xA0 (0x1B67E)
+// ニャゴのよろい[    ]
+Nyago's    [end]
+  Armor    
+
+
+#END()
+
+// Script 0x1AFEE-0xA1 (0x1B688)
+// りゅうのかんむり[   ]
+Dragon     [end]
+  Tiara    
+
+
+#END()
+
+// Script 0x1AFEE-0xA2 (0x1B692)
+// りゅうのよろい[    ]
+Dragon     [end]
+  Armor    
+
+
+#END()
+
+// Script 0x1AFEE-0xA3 (0x1B69B)
+// りゅうのあしアーマー　
+Dragon     [end]
+  Shins    
+
+
+#END()
+
+// Script 0x1AFEE-0xA4 (0x1B6A7)
+// はやてのよろい[    ]
+Gale Armor [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xA5 (0x1B6B0)
+// はやてのあしアーマー　
+Gale Shins [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xA6 (0x1B6BC)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xA7 (0x1B6BC)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xA8 (0x1B6BC)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xA9 (0x1B6BC)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xAA (0x1B6BC)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xAB (0x1B6BC)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xAC (0x1B6BC)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xAD (0x1B6BC)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xAE (0x1B6BC)
+[end]
+
+
+#END()
+
+// items (pad to 11 chars in orig game)
+
+// Script 0x1AFEE-0xAF (0x1B6BC)
+// かいふくがん[     ]
+Medicine   [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xB0 (0x1B6C5)
+// どくけし[       ]
+Antidote   [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xB1 (0x1B6CC)
+// シンセンタン[     ]
+Ambrosia   [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xB2 (0x1B6D4)
+// きせきがん[      ]
+Miracle    [end]
+  Drug     
+
+
+#END()
+
+// Script 0x1AFEE-0xB3 (0x1B6DC)
+// だいかいふくがん[   ]
+Great      [end]
+  Medicine 
+
+
+#END()
+
+// Script 0x1AFEE-0xB4 (0x1B6E8)
+// せいめいがん[     ]
+Super      [end]
+  Medicine 
+
+
+#END()
+
+// Script 0x1AFEE-0xB5 (0x1B6F1)
+// かつりょくがん[    ]
+Salts      [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xB6 (0x1B6FB)
+// ひらめきのとびら[   ]
+Getout     [end]
+  Doorway  
+
+
+#END()
+
+// Script 0x1AFEE-0xB7 (0x1B706)
+// サカナ[        ]
+Fish       [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xB8 (0x1B70B)
+// めがみのおまもり[   ]
+Goddess    [end]
+  Charm    
+
+
+#END()
+
+// Script 0x1AFEE-0xB9 (0x1B716)
+// いしのはな[      ]
+Stone      [end]
+  Flower   
+
+
+#END()
+
+// Script 0x1AFEE-0xBA (0x1B71D)
+// ふしぎなくすり[    ]
+Wonder     [end]
+  Salve    
+
+
+#END()
+
+// Script 0x1AFEE-0xBB (0x1B727)
+// はなのしる[      ]
+Flower Sap [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xBC (0x1B72E)
+// ひかるたま[      ]
+Light Orb  [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xBD (0x1B735)
+// ぬの[         ]
+Cloth      [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xBE (0x1B739)
+// ぼう[         ]
+Pole       [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xBF (0x1B73E)
+// いた[         ]
+Planks     [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xC0 (0x1B742)
+// ながれのつえ[     ]
+Current    [end]
+  Staff    
+
+
+#END()
+
+// Script 0x1AFEE-0xC1 (0x1B74B)
+// うつしみのかがみ[   ]
+Duplication[end]
+  Mirror   
+
+
+#END()
+
+// Script 0x1AFEE-0xC2 (0x1B756)
+// せいじゃのみず[    ]
+Holy Water [end]
+[          ] 
+
+
+#END()
+
+// Script 0x1AFEE-0xC3 (0x1B761)
+// ひたちのき[      ]
+Evergrowing[end]
+  Wood     
+
+
+#END()
+
+// Script 0x1AFEE-0xC4 (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xC5 (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xC6 (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xC7 (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xC8 (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xC9 (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xCA (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xCB (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xCC (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xCD (0x1B768)
+[end]
+
+
+#END()
+
+// Script 0x1AFEE-0xCE (0x1B768)
+// いすずジェミニ[    ]
+Isuzu      [end]
+  Gemini   
+
+
+#END()
+
+

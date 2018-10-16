@@ -1,0 +1,16 @@
+
+// see 14DAB
+// total size must be <= 0x19 bytes
+
+<$23><$03>
+<$09>New Game<$02>
+
+<$23><$10>
+<$08>Continue
+
+<$00>
+
+
+
+#END()
+

@@ -1,0 +1,792 @@
+// Script 0x5C000-0x0 (0x5C0C0)
+// 「さいきん　ちかくに　へんなとうが[br]
+// できたときく[br]
+// なにごともなければ　いいのじゃが・・[wait]
+I've heard rumors of a strange tower being built nearby... Hopefully it's nothing bad...[wait]
+
+
+#END()
+
+// Script 0x5C000-0x1 (0x5C0F3)
+// 「・・・・・・[wait]
+......[wait]
+
+
+#END()
+
+// Script 0x5C000-0x2 (0x5C0FC)
+// 「ありがとうございます。[wait]
+We are in your debt.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x3 (0x5C10D)
+// 「ここのしろには　めがみさまを[br]
+// おまつりしている　へやがあるから[br]
+// あんしんじゃよ。[wait]
+There is a hall dedicated to the Goddess in the castle. Taht's why we can rest easy.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x4 (0x5C13B)
+// 「やみのちからが　めがみのけっかいを[br]
+// こえてくるとは・・・[wait]
+How could the power of darkness break through the Goddess's barrier...?[wait]
+
+
+#END()
+
+// Script 0x5C000-0x5 (0x5C15C)
+// 「まじないやで　ぶきが　レベルアップ[br]
+// できるわよ。[wait]
+The enchanter can level up your weapons.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x6 (0x5C17E)
+// 「ふう・・もう　もとのすがたには[br]
+// もどれないと　おもってたわ[br]
+// たすけてくれて　ありがとう。[wait]
+Whew... For a while, I thought I'd never go back to normal. Thank you.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x7 (0x5C1B0)
+// 「さいきん　モンスターが　きょうりょくに[br]
+// なったなあ。[wait]
+Is it just me, or are monsters getting stronger, lately?[wait]
+
+
+#END()
+
+// Script 0x5C000-0x8 (0x5C1CE)
+// 「まちのきたから　そとにでても[br]
+// ペスパじょうに　いけますよ。[wait]
+If you leave the town north, you'll reach Castle Pespa.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x9 (0x5C1F2)
+// 「ここは　ペスパの　じょうかまちです。[wait]
+This is the castle town of Pespa.[wait]
+
+
+#END()
+
+// Script 0x5C000-0xA (0x5C20B)
+// 「ふう　やっとうごけた[br]
+// こんなとき　ホルンのまちでうっていた[br]
+// ふしぎなくすりがあれば　よかったのに。[wait]
+Whew! I can finally move again. I should have bought that Wonder Salve they sell in Holn.[wait]
+
+
+#END()
+
+// Script 0x5C000-0xB (0x5C244)
+// 「ぶとうかが　おうさまに　よばれた[br]
+// らしいわ。[wait]
+The King has sent a call for a certain martial artist.[wait]
+
+
+#END()
+
+// Script 0x5C000-0xC (0x5C260)
+// 「こんにちは　いいおてんきですね。[wait]
+Good day. Lovely weather, isn't it?[wait]
+
+
+#END()
+
+// Script 0x5C000-0xD (0x5C274)
+// 「これからも　つらいたびが[br]
+// つづくでしょうが　くじけないでください。[wait]
+Your journey is only going to get harder from now on, but never lose hope.[wait]
+
+
+#END()
+
+// Script 0x5C000-0xE (0x5C2A0)
+// 「いま　おはなをつんでるの。[wait]
+I'm picking up flowers.[wait]
+
+
+#END()
+
+// Script 0x5C000-0xF (0x5C2B1)
+// 「おにいちゃんたちが　たすけてくれたのね[br]
+// ありがとう！！[wait]
+You saved us all, didn't you? Thanks![wait]
+
+
+#END()
+
+// Script 0x5C000-0x10 (0x5C2D1)
+// マーチン　「・・たしかに　おうによばれて[br]
+// にしのとうの　モンスターたいじを[br]
+// たのまれたが　わたしでは[br]
+// やくぶそくだったので　おことわりした！！[wait]
+Martin: ...Yes, the King asked me to defeat all of the monsters in the tower to the west, but I refused. That would have been suicide![wait]
+
+
+#END()
+
+// Script 0x5C000-0x11 (0x5C321)
+// マーチン　「むう　さすがは[br]
+// めがみのゆうしゃたちだ！[wait]
+Martin: Impressive! I can see why the Goddess has chosen you.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x12 (0x5C340)
+// じゃしんのつかい　アックス　「わたしは[br]
+// きさまらに　たおされた　じゃしんのつかいの[br]
+// おとうと　あにのかたきをうつために[br]
+// やってきた。[wait][next]
+Ax, Servant of the Evil God: I am the brother of the servant of the Evil God you killed. Today, I will have my revenge.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x13 (0x5C387)
+// にくしんをうしなう　かなしみを[br]
+// きさまらに　あじあわせてやる[br]
+// まずは　きさまらをやとった　ペスパだ！！[wait]
+You shall know the pain of loss! First, this castle town, Pespa![wait]
+
+
+#END()
+
+// Script 0x5C000-0x14 (0x5C3C1)
+// じゃしんのつかい　アックス[br]
+// 「ハハハハハハッ！！[wait][next]
+Ax, Servant of the Evil God: Mwahahahahah![wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x15 (0x5C3DD)
+// リタ　「なにをするのですか！[wait][next]
+Rita: What have you done?![wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x16 (0x5C3EF)
+// シルビィ　「もとにもどすニャ！[wait][next]
+Sylviee: Turn them back, *hiss*![wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x17 (0x5C403)
+// じゃしんのつかい　アックス「つぎは[br]
+// きさまらのむらを　せきか　してくれるわ。[wait]
+Ax, Servant of the Evil God: Next, I will turn YOUR village to stone.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x18 (0x5C42D)
+// じゃしんのつかい　アックス「よきょうは[br]
+// おわりだ　きさまらも　しね！！[wait]
+Ax, Servant of the Evil God: And with this little side show out of the way... Prepare to die![wait]
+
+
+#END()
+
+// Script 0x5C000-0x19 (0x5C454)
+// じゃしんのつかい　アックス「む　むねん・・[br]
+// しかし　わたしのかけた　せきかののろいは[br]
+// えいきゅうにのこるのだ・・[wait]
+Ax, Servant of the Evil God: Y-You have defeated me... but even if I die, the Curse of Stone I have cast will hold forever...[wait]
+
+
+#END()
+
+// Script 0x5C000-0x1A (0x5C490)
+// 「リタひめさまは　しんのつよいひとじゃ。[wait]
+Princess Rita is truly strong.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x1B (0x5C4A7)
+// おうさま　「そなたらが　めがみに[br]
+// えらばれた　ゆうしゃたちか・・・[br]
+// じ　じつは　たのみがあるのじゃ・・・[wait][next]
+King: You must be the Goddess's chosen ones... I have a request.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x1C (0x5C4E5)
+// たのみとは　さいきん　このまちのにしに[br]
+// できたとうを　はかいしてほしいのじゃ。[wait][next]
+I want you to destroy the tower that has been recently built west of our town.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x1D (0x5C511)
+// ムロボ　「わかりました。[br]
+// めがみのためにも　おひきうけします。[wait]
+Murobo: Very well. We shall do as you ask, for the sake of our Goddess.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x1E (0x5C534)
+// おうさま　「たのんだぞ！！[br]
+// ゆうしゃたちよ。[wait]
+King: I'm counting on you, brave ones![wait]
+
+
+#END()
+
+// Script 0x5C000-0x1F (0x5C54E)
+// ムロボ　「おうさま　とうは[br]
+// あとかたもなく　はかいしました。[wait][next]
+Murobo: Your Majesty, the tower has been destroyed. There is nothing left of it.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x20 (0x5C570)
+// おうさま　「おお　ムロボたちよ[br]
+// よくやってくれた　しばらくこのくにで[br]
+// ゆっくり　していくがよい。[wait]
+King: Well done, brave ones! Please, feel free to rest for a while in our town.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x21 (0x5C5A6)
+// おうさま　「ぶとうかのマーチンが　[br]
+// そなたらとはなしたいそうじゃ　よっていって[br]
+// やれんかのー。[wait]
+King: It seems that Martin, the martial artist, wishes to speak with you. Please meet him at once.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x22 (0x5C5DA)
+// おうさま　「おお・・・　みなのものよ・・[br]
+// ゆうしゃよ　かんしゃするぞ。[wait]
+King: Thank you, brave ones![wait]
+
+
+#END()
+
+// Script 0x5C000-0x23 (0x5C600)
+// ムロボ　「おうさま　じつは　とうを[br]
+// はかいしたといったのは　ウソなのです。[wait][next]
+Murobo: Your Majesty, I know I said the tower was destroyed... But that was a lie.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x24 (0x5C62B)
+// じっさい　じゃしんのつかいは　たおした[br]
+// のですが　とうじたいは　かみのせかいへと[br]
+// きえてしまったのです。[wait][next]
+The truth is, it was transported to the world of the Gods soon after we struck down the the servant of the Evil God inside of it.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x25 (0x5C668)
+// ですから　われわれは　これから[br]
+// そのとうの　はかいにむかいます。[wait][next]
+We have not given up on our task. We shall head there and destroy the tower once and for all.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x26 (0x5C68C)
+// リタ　「おとうさま　わたしも　ぜひ[br]
+// このゆうしゃさまたちと　いっしょに[br]
+// いきたいとおもいます。[wait][next]
+Rita: Father, I wish to travel with them as well.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x27 (0x5C6BF)
+// おうさま　「わかった　ムロボよ　むすめは[br]
+// まかせたぞ　いっこくもはやく[br]
+// このせかいを　へいわにしてくれ・・　[br]
+// たのんだぞ・・・　ゆうしゃたちよ。[wait][next]
+King: I understand. Murobo, keep an eye on my daughter, would you? And please, bring peace back to our world. We're all counting on you, brave ones.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x28 (0x5C70E)
+// ムロボ　「おうさま・・・わかりました。[wait][clear]
+Murobo: We will, your Majesty.[wait][clear]
+
+
+#END()
+
+// Script 0x5C000-0x29 (0x5C725)
+// リタひめ　「まあ！　あなたたちが[br]
+// あの　ゆうしゃさまたちですか・・・[wait]
+Princess Rita: Are you the champions I've heard so much about?[wait]
+
+
+#END()
+
+// Script 0x5C000-0x2A (0x5C74B)
+// リタひめ　「いっこくも　はやく　あのとうを[br]
+// はかいして　ください。[wait]
+Princess Rita: Please destroy that tower as soon as possible.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x2B (0x5C76F)
+// 「にしのとうは　モンスターだらけだぞ。[wait]
+The tower to the west is teeming with monsters.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x2C (0x5C787)
+// 「う・・・　どうしたんだ・・・[wait]
+W-What happened...?[wait]
+
+
+#END()
+
+// Script 0x5C000-0x2D (0x5C79A)
+// 「さいきんは　モンスターが[br]
+// すごく　つよくなってきているな！！[wait]
+Monsters have been getting stronger and stronger![wait]
+
+
+#END()
+
+// Script 0x5C000-0x2E (0x5C7BD)
+// 「か・・・　からだがうごくぞ！！[br]
+// た　たすかったぞ・・・！！[wait]
+I-I can move again! You saved us![wait]
+
+
+#END()
+
+// Script 0x5C000-0x2F (0x5C7E2)
+// リタひめ　「わたしもマーチンさんの[br]
+// ところへ　つれていってくれませんか。[br]
+// おとうさまには　ないしょだけど・・・[wait][next]
+Princess Rita: I wish to meet Martin as well. Please take me to him... But keep it a secret from Father.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x30 (0x5C81E)
+// ムロボ　「まあ　ことわるりゆうもないし[br]
+// かまわんが・・・[wait][next]
+Murobo: I guess I have no reason to refuse.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x31 (0x5C83F)
+// リタひめ　「ありがとうございます。[wait]
+Princess Rita: Thank you.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x32 (0x5C855)
+// [clear]レミ　「わたしは　ぶじゅつはちょっと[br]
+// にがてだから　ここのとしょしつで[br]
+// まじゅつしょでも　よんでるワ。[wait]
+[clear]Remi: I don't care about martial arts. I think I'm going to spend some time reading magic books at the castle's library.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x33 (0x5C893)
+// めがみ　「このちほうのどこかに　じゃしんの[br]
+// つくったとうが　わたしのちからを　[br]
+// せいげんしています。　みちびきのうさぎを[br]
+// だせないのもこのためです。[wait][next]
+Goddess: In this region, there is a tower built by the evil god that is restraining my powers. That is why the Guiding Rabbit led you here.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x34 (0x5C8E9)
+// このままでは　ゆうしゃを　いせかいから[br]
+// しょうかんすることが　できません。[br]
+// くわしいことは　このしろの　おうが[br]
+// しっています。[wait]
+At this rate, I won't be able to summon the Hero from another world. Head to the castle, the King will tell you more about this.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x35 (0x5C92E)
+// ムロボ　「めがみよ　すみません[br]
+// とうを　はかいできませんでした。[wait][next]
+Murobo: Forgive me, Goddess. We couldn't destroy the tower.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x36 (0x5C955)
+// めがみ　「もうよいのです　そのかわり[br]
+// ひきつづき　とうのはかいのために[br]
+// たたかってください。[wait][next]
+Goddess: No need to apologize. However, I must ask you to keep trying until you succeed.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x37 (0x5C98A)
+// それと　そのとうがある　かみのせかいに[br]
+// はいるための　おまもりを[br]
+// あなたがたにさずけます。[wait][next]
+The tower has already reached the world of the Gods... Take this charm. It will allow you to enter it as well.[wait][next]
+
+
+
+#END()
+
+// Script 0x5C000-0x38 (0x5C9BD)
+// [clear]パーティーは　めがみのおまもりを[br]
+// てにいれた。[wait]
+[clear]The party has obtained the Goddess Charm.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x39 (0x5C9D9)
+// ムロボ　「めがみよ　このはなのちからと[br]
+// あなたのちからで　みんなを[br]
+// もとのすがたに　もどしてください。[wait][next]
+Murobo: Oh Goddess, please combine your power with this flower and bring everyone back to normal.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x3A (0x5CA15)
+// めがみ　「わかりました　ムロボ。[wait]
+Goddess: It shall be done.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x3B (0x5CA29)
+// ムロボ　「めがみよ　かんしゃします。[wait]
+Murobo: Thank you, my Goddess.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x3C (0x5CA3F)
+// レミ　「ここの　としょしつは　いろんな[br]
+// まじゅつしょが　いっぱいあるのよ[br]
+// なんて　すばらしいんでしょ！[wait]
+Remi: Wow, this library has some of the best magic books! This is so cool![wait]
+
+
+#END()
+
+// Script 0x5C000-0x3D (0x5CA79)
+// ボストフ　「レミ！！　しっかりしろ！！[wait][next]
+Bostov: Remi!! Say something!![wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x3E (0x5CA90)
+// レミ　「・・・・・・[wait][next]
+Remi: ......[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x3F (0x5CA9D)
+// ボストフ　「くそっ！！　モンスターめ。[wait][next]
+Bostov: ARGH! Damn those monsters!![wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x40 (0x5CAB4)
+// リタ　「ムロボさん　これを。[wait][next]
+Rita: Murobo, read this.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x41 (0x5CAC6)
+// ムロボ　「む！？　なになに・・[wait][br]
+// [clear]せきかのしょう　ーせきかをとくには[br]
+// さばくにさく　いしのはながひつようー[br]
+// ふむ・・なるほど・・[wait][next]
+Murobo: Let's see...[wait][br]
+[clear]Neutralizing Petrification - In order to remove the effects of a petrification spell, a "stone flower", a plant that grows in the desert, is required. -[br]
+Hmm, I see...[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x42 (0x5CB0E)
+// ムロボ　「まってろ　レミ！！[br]
+// すぐに　いしのはなを　とってきて[br]
+// やるからな！！[wait]
+Murobo: Hang in there, Remi! We'll come back with that stone flower as fast as we can![wait]
+
+
+#END()
+
+// Script 0x5C000-0x43 (0x5CB39)
+// ムロボ　「レミ　もとにもどれて[br]
+// よかったな。[wait][next]
+Murobo: I'm glad to see you're okay, Remi.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x44 (0x5CB54)
+// レミ　「ええ・・・　みんなありがとう。[wait][next]
+Remi: Thank you. I really owe you big time.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x45 (0x5CB6B)
+// シルビィ　「じゃ　わたしは　このはなを[br]
+// もって　ねこまたむらへ　かえるニャ。[wait][next]
+Sylviee: Okay, I'm bringing the flower to the Catfolk village, *meow*.[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x46 (0x5CB96)
+// リュキア　「シルビィちゃん　げんきで[br]
+// きをつけてニャー。[wait]
+Ryuquir: Take care, Sylviee! Say hello to everyone for me, *meow*![wait]
+
+
+#END()
+
+// Script 0x5C000-0x47 (0x5CBB7)
+// じゃしんのつかい　ガディ　「おまえたちは[br]
+// めがみのゆうしゃだな・・[wait][br]
+// ちょうどよい　このとうを　かんせいさせる[br]
+// いけにえと　なってもらおう！！[wait]
+Gady, Servant of the Evil God: You must be the Goddess's chosen ones...[wait][br]
+You're just the kind of sacrifice we need to complete the tower![wait]
+
+
+#END()
+
+// Script 0x5C000-0x48 (0x5CC06)
+// じゃしんのつかい　ガディ　「クッ　せめて[br]
+// このとうだけは　まもってみせる・・[wait][next]
+Gady, Servant of the Evil God: Urgh... T-The tower must not fall now...[wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x49 (0x5CC33)
+// わがいのちを　いけにえとして[br]
+// せいちょうせよ！！[wait][next]
+Accept my life as a sacrifice and grow!![wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x4A (0x5CC4F)
+// じゃしんのつかい　ガディ「グワァーーッ！！[wait]
+Gady, Servant of the Evil God: AAAARGH!![wait]
+
+
+#END()
+
+// Script 0x5C000-0x4B (0x5CC6A)
+// じゃしんのつかい　ガディ　「これで[br]
+// このとうに　いのちが　ふきこまれた・・[br]
+// だれも　このいきたとうを　とめることは[br]
+// できん！[wait][next]
+Gady, Servant of the Evil God: It is done... Nobody can stop the living tower![wait][next]
+
+
+#END()
+
+// Script 0x5C000-0x4C (0x5CCB2)
+// とうは　ヴィルガストのせかいをつつむ[br]
+// かみのせかいで　さらに　せいちょうし[br]
+// やがては　じゃしんさまとともに　この[br]
+// ヴィルガストかいを　しはいするのだ！！[wait]
+It will keep growing until it reaches the world of the Gods above Villgust... Finally, our Evil God will rule supreme![wait]
+
+
+#END()
+
+// Script 0x5C000-0x4D (0x5CD08)
+// 「ここは　さばくのまち　フォルク[br]
+// こんなところに　なんのようだい？[wait]
+This is Faulque, the desert village. What brings you here?[wait]
+
+
+#END()
+
+// Script 0x5C000-0x4E (0x5CD2D)
+// 「ここは　このさばくの[br]
+// ゆいいつの　オアシスなんだ！[wait]
+This is the only oasis in the entire desert![wait]
+
+
+#END()
+
+// Script 0x5C000-0x4F (0x5CD4B)
+// 「このまちの　きたには[br]
+// さばくのしんでんが　あるのよ。[wait]
+The Desert Shrine is north of our village.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x50 (0x5CD6B)
+// 「さばくのしんでんには　りゅうさがあって[br]
+// うかつに　あしを　ふみいれると[br]
+// ながされてしまうぞ！！[wait]
+The Desert Shrine is full of quicksand. If you're not careful, you'll be swept away![wait]
+
+
+#END()
+
+// Script 0x5C000-0x51 (0x5CDA2)
+// 「いしのはななら　さばくのしんでんの[br]
+// おくに　あるそうじゃよ[wait][br]
+// はなを　てにいれたら　めがみのごかごの[br]
+// もとで　つかいなさい　わかったかな。[wait]
+The stone flower should be inside the Desert Shrine.[wait][br]
+Remember: the flower must be used in a place under the Goddess's protection.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x52 (0x5CDF1)
+// 「うっっ・・・　くるしい！！[br]
+// さっきのく　くすり・・・どくだったんだ。[wait]
+Urgh... The pain...! That was no medicine... It was poison![wait]
+
+
+#END()
+
+// Script 0x5C000-0x53 (0x5CE19)
+// 「ふうっ　たすかった。[wait]
+Whew! You saved us![wait]
+
+
+#END()
+
+// Script 0x5C000-0x54 (0x5CE26)
+// 「あの　しょうにんは　きっと　なにかの[br]
+// じじょうで　くすりをうっていたんだと[br]
+// おもう。　あいつは　わるくないんだよ！！[wait]
+My gut tells me the merchant wasn't really bad. He must have had a reason for handing out that stuff.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x55 (0x5CE68)
+// 「もう　あのしょうにん　こんど[br]
+// みつけたら　しょうちしないわ！！[wait]
+If I ever see that merchant again, I'll teach him a lesson he'll never forget!
+
+
+#END()
+
+// Script 0x5C000-0x56 (0x5CE8B)
+// 「ウッワー　しぬかとおもったよ！！[wait]
+I thought I was gonna die![wait]
+
+
+#END()
+
+// Script 0x5C000-0x57 (0x5CE9E)
+// 「ここは　ホルンのまちニャ。[wait]
+Welcome to Holn, *meow*![wait]
+
+
+#END()
+
+// Script 0x5C000-0x58 (0x5CEAE)
+// 「ふしぎな　くすりをうっていた[br]
+// しょうにん？[br]
+// そいつなら　きたに　むかったよ。[wait]
+The merchant selling the Wonder Salve? He left northward.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x59 (0x5CED8)
+// 「こんどからは　へたに[br]
+// くすりを　のまないように　するよ。[wait]
+If there's a lesson I've learned, it's "Never drink a random medicine just because it's free".[wait]
+
+
+#END()
+
+// Script 0x5C000-0x5A (0x5CEF8)
+// ヤシフ　「みつけたぞ　めがみの[br]
+// ゆうしゃたち！[br]
+// われら　ヤシフ[br]
+// ５にんしゅうが　あいてだ！！[wait]
+Yasiev: There you are, Goddess's champions! Face the might of the Yasiev Five![wait]
+
+
+#END()
+
+// Script 0x5C000-0x5B (0x5CF2C)
+// しょうにん　「ほんとうに　ありがとう[br]
+// ございました。[wait]
+Merchant: Thank you for everything.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x5C (0x5CF4B)
+// しょうにん　「あやつられてたとはいえ[br]
+// まちのひとには　わるいことをしました。[wait]
+Merchant: Under control or not, I've still done something wrong. I have to make amends.[wait]
+
+
+#END()
+
+// Script 0x5C000-0x5D (0x5CF73)
+// 「わ　わたしのことはいいニャ[br]
+// それより　こどもを・・・[wait]
+F-Forget about me, *meow*... Please, save my child...[wait]
+
+
+#END()
+
+// Script 0x5C000-0x5E (0x5CF91)
+// 「お　おかあさん　くるしいニャ・・・[wait]
+M-Mommy... It hurts, *meow*...[wait]
+
+
+#END()
+
+// Script 0x5C000-0x5F (0x5CFA5)
+// 「あのしょうにんに　へんなくすりを[br]
+// のまされて・・・ううっ！！[wait]
+Ever since I drank that weird medicine the merchant gave me-- Urgh...![wait]
+
+
+#END()
+

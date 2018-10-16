@@ -1,0 +1,110 @@
+		title screen post intro
+		
+甲竜伝説
+ヴィルガスト
+外伝
+
+はじめから			つづきから
+
+Armored Dragon Legend
+Villgust
+Side Story
+
+New Game		Continue
+
+		Credits
+
+ＳＴＡＦＦ
+
+------------
+
+きかく　げんあん
+
+	Ｐ・ＮＥＫＯＭＡＴＡ
+
+------------
+
+ストーリー
+	スタジオ　オルフェ
+	ちば　ともひろ
+	
+------------
+
+プロデューサー
+	ささき　しげのり
+	
+------------
+
+コーディネイター
+	ＫＡＢＡＯ
+	
+------------
+
+プログラマー
+	おおたろう
+	ＺＨＵ　ＬＩ
+	
+------------
+
+デザイナー
+	みど　にゃんこ
+	ＫＡＮＯＧＥＮ
+	
+------------
+
+コンポーザー
+ミュージック・オフィス
+	あまやん
+	
+------------
+
+スペシャル　サンクス
+	ゆの　じょうじ
+	
+	
+STAFF
+
+------------
+
+Original Project
+
+	P-NEKOMATA
+
+------------
+
+Story
+	Studio Orphee
+	Tomohiro Chiba
+	
+------------
+
+Producer
+	Shigenori Sasaki
+	
+------------
+
+Coordinator
+	KABAO
+	
+------------
+
+Programmers
+	Ootaroおおたろう
+	ZHU LI
+	
+------------
+
+Designers
+	Mido Nyanko
+	KANOGEN
+	
+------------
+
+Composer
+	Music Office
+	Amayan
+	
+------------
+
+Special Thanks
+	Joji Yuno

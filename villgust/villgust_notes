@@ -1,0 +1,73 @@
+
+memory:
+  0026-0027 = nametable x-scroll
+  0028-0029 = nametable y-scroll
+  002F = ? flag -- FF when e.g. transfering registers?
+  0038-003D = CHR paging registers
+  0040-0041 = PRG paging registers
+  0044 = base printing x-tile?
+  0045 = base printing y-tile?
+  00AC = PPUCTRL?
+  0206 = character 1 exp
+  0226 = character 2 exp
+  0380 = buffer for attribute tables
+  0420 = buffer for names, etc., before being printed?
+  ~048A = money (note that ones digit of displayed amounts is dummy)
+  04C1 = ?
+  04C3 = offset between top/bottom row data in text buffer at 0604
+  04CA = random encounter countdown timer; freeze at nonzero value
+         to prevent random encounters
+  0604 = printing buffer
+  6F00 = buffer for (some) text before printing preprocessing?
+    see e.g. 1C3E0 for setup for call
+
+routines:
+  9401/9402/9404 = copy text to base RAM for printing
+    - 0000 = srcaddr
+  950E = draw textTable1 string from base table using position data from
+         table at 950E
+  ~953C = lookup from textTable1
+  ~960D = lookup from textTable0
+  9B41 = table of structs for each string in textTable1 (base):
+         1b x-pos
+         1b y-pos
+         1b length (total number of output bytes -- compressed
+            spaces are counted as their full decompressed size)
+         see 950E
+  ~C67A = lookup from textTable0
+  1C19E = use jump table at call return address
+  1C1C7 = 16-bit table lookup (A = index, 0000 = base address)
+  1C1D5 = change PRG banks from 0040-0041
+  1C295 = save PRG banks to 0042-0043, then change to ones selected by A
+  1C2A8 = restore PRG banks from 0042-0043
+  1C366 = change CHR banks from 0038-003D
+  ~1C41C = print next character
+  1C8E9 = calculate PPU address of (0044, 0045)?
+  1D992 = multiply 0000 by 0001, returning 16-bit result in 0000?
+  1ECD4 = copy text to expansion RAM (possibly?) from CHR ROM
+  1EF2B = copy text to expansion RAM from CHR ROM
+
+text:
+  PRG ROM:
+    * 0B586 = pointer table, 0x35 entries
+    * 1AFEE = pointer table, 0x110 entries
+  CHR ROM:
+    * 4E000 = pointer table, 0x80 entries (0x1000-based)
+    * 4F000 = pointer table, 0x60 entries (0x1000-based)
+    * 5C000 = pointer table, 0x60 entries (0x1000-based)
+    * 5D000 = pointer table, 0x68 entries (0x1000-based)
+    * 5E000 = pointer table, 0x51 entries (0x1000-based)
+    * 5F000 = pointer table, 0x27 entries (0x1000-based)
+  dialogue text is in CHR ROM starting around ROM 4E100, 5C0C0
+  ~1b200: "level", "gold"
+  in-battle inventory screen: tilemap, CHR ROM, ~5BE00
+
+
+8E88 = set initial x/y tile pos for multi-char(?) exp message
+AAC9 = update base printpos before each character name in multi-char exp gain
+
+88df
+a5aa
+
+15292? = title logo tilemap (0x16 tiles per row?)
+~14dab = title other stuff maps ("compressed")
