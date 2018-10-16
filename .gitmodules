@@ -1,0 +1,3 @@
+[submodule "villgust/wla-dx"]
+	path = villgust/wla-dx
+	url = https://github.com/vhelin/wla-dx.git
